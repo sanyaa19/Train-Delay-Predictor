@@ -1,343 +1,3037 @@
 date,train_no,train_name,station,delay_min,status
-2025-05-11,12020,Shatabdi Express,"RANCHI (RNC)
+2025-05-11,12301,Rajdhani Express,"HOWRAH JN (HWH)
 								
-Avg. Delay: 1 Min's",1,Unknown
-2025-05-11,12020,Shatabdi Express,"MURI (MURI)
-								
-Avg. Delay: 3 Min's",3,Unknown
-2025-05-11,12020,Shatabdi Express,"BOKARO STL CITY (BKSC)
-								
-Avg. Delay: 2 Min's",2,Unknown
-2025-05-11,12020,Shatabdi Express,"CHANDRAPURA (CRP)
-								
-Avg. Delay: 2 Min's",2,Unknown
-2025-05-11,12020,Shatabdi Express,"DHANBAD JN (DHN)
-								
-Avg. Delay: 8 Min's",8,Unknown
-2025-05-11,12020,Shatabdi Express,"ASANSOL JN (ASN)
-								
-Avg. Delay: 17 Min's",17,Unknown
-2025-05-11,12020,Shatabdi Express,"RANIGANJ (RNG)
-								
-Avg. Delay: 15 Min's",15,Unknown
-2025-05-11,12020,Shatabdi Express,"DURGAPUR (DGR)
-								
-Avg. Delay: 17 Min's",17,Unknown
-2025-05-11,12020,Shatabdi Express,"HOWRAH JN (HWH)
-								
-Avg. Delay: 10 Min's",10,Unknown
-2025-05-11,12303,Poorva Express,"HOWRAH JN (HWH)
-								
-Avg. Delay: 1 Min's",1,Unknown
-2025-05-11,12303,Poorva Express,"BARDDHAMAN JN (BWN)
-								
-Avg. Delay: 18 Min's",18,Unknown
-2025-05-11,12303,Poorva Express,"DURGAPUR (DGR)
-								
-Avg. Delay: 9 Min's",9,Unknown
-2025-05-11,12303,Poorva Express,"ASANSOL JN (ASN)
-								
-Avg. Delay: 16 Min's",16,Unknown
-2025-05-11,12303,Poorva Express,"CHITTARANJAN (CRJ)
-								
-Avg. Delay: 21 Min's",21,Unknown
-2025-05-11,12303,Poorva Express,"JAMTARA (JMT)
-								
-Avg. Delay: 20 Min's",20,Unknown
-2025-05-11,12303,Poorva Express,"MADHUPUR JN (MDP)
-								
-Avg. Delay: 32 Min's",32,Unknown
-2025-05-11,12303,Poorva Express,"JASIDIH JN (JSME)
-								
-Avg. Delay: 36 Min's",36,Unknown
-2025-05-11,12303,Poorva Express,"JHAJHA (JAJ)
-								
-Avg. Delay: 6 Min's",6,Unknown
-2025-05-11,12303,Poorva Express,"JAMUI (JMU)
-								
-Avg. Delay: 11 Min's",11,Unknown
-2025-05-11,12303,Poorva Express,"KIUL JN (KIUL)
-								
-Avg. Delay: 22 Min's",22,Unknown
-2025-05-11,12303,Poorva Express,"MOKAMEH JN (MKA)
-								
-Avg. Delay: 39 Min's",39,Unknown
-2025-05-11,12303,Poorva Express,"BARH (BARH)
-								
-Avg. Delay: 45 Min's",45,Unknown
-2025-05-11,12303,Poorva Express,"BAKHTIYARPUR JN (BKP)
-								
-Avg. Delay: 51 Min's",51,Unknown
-2025-05-11,12303,Poorva Express,"PATNA JN (PNBE)
-								
-Avg. Delay: 57 Min's",57,Unknown
-2025-05-11,12303,Poorva Express,"DANAPUR (DNR)
-								
-Avg. Delay: 66 Min's",66,Unknown
-2025-05-11,12303,Poorva Express,"ARA (ARA)
-								
-Avg. Delay: 67 Min's",67,Unknown
-2025-05-11,12303,Poorva Express,"BUXAR (BXR)
-								
-Avg. Delay: 77 Min's",77,Unknown
-2025-05-11,12303,Poorva Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
-								
-Avg. Delay: 44 Min's",44,Unknown
-2025-05-11,12303,Poorva Express,"PRAYAGRAJ JN (PRYJ)
-								
-Avg. Delay: 50 Min's",50,Unknown
-2025-05-11,12303,Poorva Express,"KANPUR CENTRAL (CNB)
-								
-Avg. Delay: 61 Min's",61,Unknown
-2025-05-11,12303,Poorva Express,"ETAWAH (ETW)
-								
-Avg. Delay: 83 Min's",83,Unknown
-2025-05-11,12303,Poorva Express,"TUNDLA JN (TDL)
-								
-Avg. Delay: 71 Min's",71,Unknown
-2025-05-11,12303,Poorva Express,"ALIGARH JN (ALJN)
-								
-Avg. Delay: 80 Min's",80,Unknown
-2025-05-11,12303,Poorva Express,"NEW DELHI (NDLS)
-								
-Avg. Delay: 72 Min's",72,Unknown
-2025-05-11,12423,Rajdhani Express,"DIBRUGARH (DBRG)
-								
-Avg. Delay: 3 Min's",3,Unknown
-2025-05-11,12423,Rajdhani Express,"NEW TINSUKIA JN (NTSK)
-								
-Avg. Delay: 8 Min's",8,Unknown
-2025-05-11,12423,Rajdhani Express,"MARIANI JN (MXN)
-								
-Avg. Delay: 19 Min's",19,Unknown
-2025-05-11,12423,Rajdhani Express,"DIMAPUR (DMV)
-								
-Avg. Delay: 15 Min's",15,Unknown
-2025-05-11,12423,Rajdhani Express,"LUMDING JN (LMG)
-								
-Avg. Delay: 17 Min's",17,Unknown
-2025-05-11,12423,Rajdhani Express,"CHAPARMUKH JN (CPK)
-								
-Avg. Delay: 21 Min's",21,Unknown
-2025-05-11,12423,Rajdhani Express,"GUWAHATI (GHY)
-								
-Avg. Delay: 22 Min's",22,Unknown
-2025-05-11,12423,Rajdhani Express,"RANGIYA JN (RNY)
-								
-Avg. Delay: 20 Min's",20,Unknown
-2025-05-11,12423,Rajdhani Express,"NEW BONGAIGAON (NBQ)
-								
-Avg. Delay: 13 Min's",13,Unknown
-2025-05-11,12423,Rajdhani Express,"KOKRAJHAR (KOJ)
-								
-Avg. Delay: 33 Min's",33,Unknown
-2025-05-11,12423,Rajdhani Express,"NEW COOCH BEHAR (NCB)
-								
-Avg. Delay: 36 Min's",36,Unknown
-2025-05-11,12423,Rajdhani Express,"NEW JALPAIGURI (NJP)
-								
-Avg. Delay: 18 Min's",18,Unknown
-2025-05-11,12423,Rajdhani Express,"KISHANGANJ (KNE)
-								
-Avg. Delay: 20 Min's",20,Unknown
-2025-05-11,12423,Rajdhani Express,"KATIHAR JN (KIR)
-								
-Avg. Delay: 8 Min's",8,Unknown
-2025-05-11,12423,Rajdhani Express,"NAUGACHIA (NNA)
-								
-Avg. Delay: 13 Min's",13,Unknown
-2025-05-11,12423,Rajdhani Express,"MANSI JN (MNE)
-								
-Avg. Delay: 24 Min's",24,Unknown
-2025-05-11,12423,Rajdhani Express,"BARAUNI JN (BJU)
-								
-Avg. Delay: 43 Min's",43,Unknown
-2025-05-11,12423,Rajdhani Express,"PATLIPUTRA (PPTA)
-								
-Avg. Delay: 18 Min's",18,Unknown
-2025-05-11,12423,Rajdhani Express,"DANAPUR (DNR)
-								
-Avg. Delay: 22 Min's",22,Unknown
-2025-05-11,12423,Rajdhani Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
-								
-Avg. Delay: 17 Min's",17,Unknown
-2025-05-11,12423,Rajdhani Express,"PRAYAGRAJ JN (PRYJ)
-								
-Avg. Delay: 23 Min's",23,Unknown
-2025-05-11,12423,Rajdhani Express,"KANPUR CENTRAL (CNB)
-								
-Avg. Delay: 26 Min's",26,Unknown
-2025-05-11,12423,Rajdhani Express,"NEW DELHI (NDLS)
+Avg. Delay: 0 Min's",0,Unknown
+2025-05-11,12301,Rajdhani Express,"ASANSOL JN (ASN)
 								
 Avg. Delay: 14 Min's",14,Unknown
-2025-05-11,12020,Shatabdi Express,"RANCHI (RNC)
+2025-05-11,12301,Rajdhani Express,"DHANBAD JN (DHN)
 								
-Avg. Delay: 1 Min's",1,Unknown
-2025-05-11,12020,Shatabdi Express,"MURI (MURI)
+Avg. Delay: 2 Min's",2,Unknown
+2025-05-11,12301,Rajdhani Express,"PARASNATH (PNME)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12301,Rajdhani Express,"GAYA JN (GAYA)
 								
 Avg. Delay: 3 Min's",3,Unknown
-2025-05-11,12020,Shatabdi Express,"BOKARO STL CITY (BKSC)
-								
-Avg. Delay: 2 Min's",2,Unknown
-2025-05-11,12020,Shatabdi Express,"CHANDRAPURA (CRP)
-								
-Avg. Delay: 2 Min's",2,Unknown
-2025-05-11,12020,Shatabdi Express,"DHANBAD JN (DHN)
-								
-Avg. Delay: 8 Min's",8,Unknown
-2025-05-11,12020,Shatabdi Express,"ASANSOL JN (ASN)
-								
-Avg. Delay: 17 Min's",17,Unknown
-2025-05-11,12020,Shatabdi Express,"RANIGANJ (RNG)
-								
-Avg. Delay: 15 Min's",15,Unknown
-2025-05-11,12020,Shatabdi Express,"DURGAPUR (DGR)
-								
-Avg. Delay: 17 Min's",17,Unknown
-2025-05-11,12020,Shatabdi Express,"HOWRAH JN (HWH)
+2025-05-11,12301,Rajdhani Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
 								
 Avg. Delay: 10 Min's",10,Unknown
-2025-05-11,12303,Poorva Express,"HOWRAH JN (HWH)
-								
-Avg. Delay: 1 Min's",1,Unknown
-2025-05-11,12303,Poorva Express,"BARDDHAMAN JN (BWN)
-								
-Avg. Delay: 18 Min's",18,Unknown
-2025-05-11,12303,Poorva Express,"DURGAPUR (DGR)
-								
-Avg. Delay: 9 Min's",9,Unknown
-2025-05-11,12303,Poorva Express,"ASANSOL JN (ASN)
-								
-Avg. Delay: 16 Min's",16,Unknown
-2025-05-11,12303,Poorva Express,"CHITTARANJAN (CRJ)
-								
-Avg. Delay: 21 Min's",21,Unknown
-2025-05-11,12303,Poorva Express,"JAMTARA (JMT)
-								
-Avg. Delay: 20 Min's",20,Unknown
-2025-05-11,12303,Poorva Express,"MADHUPUR JN (MDP)
-								
-Avg. Delay: 32 Min's",32,Unknown
-2025-05-11,12303,Poorva Express,"JASIDIH JN (JSME)
-								
-Avg. Delay: 36 Min's",36,Unknown
-2025-05-11,12303,Poorva Express,"JHAJHA (JAJ)
-								
-Avg. Delay: 6 Min's",6,Unknown
-2025-05-11,12303,Poorva Express,"JAMUI (JMU)
-								
-Avg. Delay: 11 Min's",11,Unknown
-2025-05-11,12303,Poorva Express,"KIUL JN (KIUL)
-								
-Avg. Delay: 22 Min's",22,Unknown
-2025-05-11,12303,Poorva Express,"MOKAMEH JN (MKA)
-								
-Avg. Delay: 39 Min's",39,Unknown
-2025-05-11,12303,Poorva Express,"BARH (BARH)
-								
-Avg. Delay: 45 Min's",45,Unknown
-2025-05-11,12303,Poorva Express,"BAKHTIYARPUR JN (BKP)
-								
-Avg. Delay: 51 Min's",51,Unknown
-2025-05-11,12303,Poorva Express,"PATNA JN (PNBE)
-								
-Avg. Delay: 57 Min's",57,Unknown
-2025-05-11,12303,Poorva Express,"DANAPUR (DNR)
-								
-Avg. Delay: 66 Min's",66,Unknown
-2025-05-11,12303,Poorva Express,"ARA (ARA)
-								
-Avg. Delay: 67 Min's",67,Unknown
-2025-05-11,12303,Poorva Express,"BUXAR (BXR)
-								
-Avg. Delay: 77 Min's",77,Unknown
-2025-05-11,12303,Poorva Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
-								
-Avg. Delay: 44 Min's",44,Unknown
-2025-05-11,12303,Poorva Express,"PRAYAGRAJ JN (PRYJ)
-								
-Avg. Delay: 50 Min's",50,Unknown
-2025-05-11,12303,Poorva Express,"KANPUR CENTRAL (CNB)
-								
-Avg. Delay: 61 Min's",61,Unknown
-2025-05-11,12303,Poorva Express,"ETAWAH (ETW)
-								
-Avg. Delay: 83 Min's",83,Unknown
-2025-05-11,12303,Poorva Express,"TUNDLA JN (TDL)
-								
-Avg. Delay: 71 Min's",71,Unknown
-2025-05-11,12303,Poorva Express,"ALIGARH JN (ALJN)
-								
-Avg. Delay: 80 Min's",80,Unknown
-2025-05-11,12303,Poorva Express,"NEW DELHI (NDLS)
-								
-Avg. Delay: 72 Min's",72,Unknown
-2025-05-11,12423,Rajdhani Express,"DIBRUGARH (DBRG)
-								
-Avg. Delay: 3 Min's",3,Unknown
-2025-05-11,12423,Rajdhani Express,"NEW TINSUKIA JN (NTSK)
-								
-Avg. Delay: 8 Min's",8,Unknown
-2025-05-11,12423,Rajdhani Express,"MARIANI JN (MXN)
-								
-Avg. Delay: 19 Min's",19,Unknown
-2025-05-11,12423,Rajdhani Express,"DIMAPUR (DMV)
-								
-Avg. Delay: 15 Min's",15,Unknown
-2025-05-11,12423,Rajdhani Express,"LUMDING JN (LMG)
-								
-Avg. Delay: 17 Min's",17,Unknown
-2025-05-11,12423,Rajdhani Express,"CHAPARMUKH JN (CPK)
-								
-Avg. Delay: 21 Min's",21,Unknown
-2025-05-11,12423,Rajdhani Express,"GUWAHATI (GHY)
-								
-Avg. Delay: 22 Min's",22,Unknown
-2025-05-11,12423,Rajdhani Express,"RANGIYA JN (RNY)
-								
-Avg. Delay: 20 Min's",20,Unknown
-2025-05-11,12423,Rajdhani Express,"NEW BONGAIGAON (NBQ)
-								
-Avg. Delay: 13 Min's",13,Unknown
-2025-05-11,12423,Rajdhani Express,"KOKRAJHAR (KOJ)
-								
-Avg. Delay: 33 Min's",33,Unknown
-2025-05-11,12423,Rajdhani Express,"NEW COOCH BEHAR (NCB)
-								
-Avg. Delay: 36 Min's",36,Unknown
-2025-05-11,12423,Rajdhani Express,"NEW JALPAIGURI (NJP)
-								
-Avg. Delay: 18 Min's",18,Unknown
-2025-05-11,12423,Rajdhani Express,"KISHANGANJ (KNE)
-								
-Avg. Delay: 20 Min's",20,Unknown
-2025-05-11,12423,Rajdhani Express,"KATIHAR JN (KIR)
-								
-Avg. Delay: 8 Min's",8,Unknown
-2025-05-11,12423,Rajdhani Express,"NAUGACHIA (NNA)
-								
-Avg. Delay: 13 Min's",13,Unknown
-2025-05-11,12423,Rajdhani Express,"MANSI JN (MNE)
-								
-Avg. Delay: 24 Min's",24,Unknown
-2025-05-11,12423,Rajdhani Express,"BARAUNI JN (BJU)
-								
-Avg. Delay: 43 Min's",43,Unknown
-2025-05-11,12423,Rajdhani Express,"PATLIPUTRA (PPTA)
-								
-Avg. Delay: 18 Min's",18,Unknown
-2025-05-11,12423,Rajdhani Express,"DANAPUR (DNR)
-								
-Avg. Delay: 22 Min's",22,Unknown
-2025-05-11,12423,Rajdhani Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
-								
-Avg. Delay: 17 Min's",17,Unknown
-2025-05-11,12423,Rajdhani Express,"PRAYAGRAJ JN (PRYJ)
-								
-Avg. Delay: 23 Min's",23,Unknown
-2025-05-11,12423,Rajdhani Express,"KANPUR CENTRAL (CNB)
-								
-Avg. Delay: 26 Min's",26,Unknown
-2025-05-11,12423,Rajdhani Express,"NEW DELHI (NDLS)
+2025-05-11,12301,Rajdhani Express,"PRAYAGRAJ JN (PRYJ)
 								
 Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,12301,Rajdhani Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,12301,Rajdhani Express,"NEW DELHI (NDLS)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,12302,Rajdhani Express,"NEW DELHI (NDLS)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12302,Rajdhani Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,12302,Rajdhani Express,"PRAYAGRAJ JN (PRYJ)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,12302,Rajdhani Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12302,Rajdhani Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 22 Min's",22,Unknown
+2025-05-11,12302,Rajdhani Express,"PARASNATH (PNME)
+								
+Avg. Delay: 33 Min's",33,Unknown
+2025-05-11,12302,Rajdhani Express,"DHANBAD JN (DHN)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,12302,Rajdhani Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,12302,Rajdhani Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12313,Sealdah Rajdhani Express,"SEALDAH (SDAH)
+								
+Avg. Delay: 0 Min's",0,Unknown
+2025-05-11,12313,Sealdah Rajdhani Express,"DURGAPUR (DGR)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,12313,Sealdah Rajdhani Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,12313,Sealdah Rajdhani Express,"DHANBAD JN (DHN)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12313,Sealdah Rajdhani Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12313,Sealdah Rajdhani Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,12313,Sealdah Rajdhani Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12313,Sealdah Rajdhani Express,"NEW DELHI (NDLS)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12314,Sealdah Rajdhani Express,"NEW DELHI (NDLS)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12314,Sealdah Rajdhani Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12314,Sealdah Rajdhani Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,12314,Sealdah Rajdhani Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12314,Sealdah Rajdhani Express,"DHANBAD JN (DHN)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,12314,Sealdah Rajdhani Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,12314,Sealdah Rajdhani Express,"DURGAPUR (DGR)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,12314,Sealdah Rajdhani Express,"SEALDAH (SDAH)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12345,Saraighat Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 2 Min's",2,Unknown
+2025-05-11,12345,Saraighat Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,12345,Saraighat Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,12345,Saraighat Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 38 Min's",38,Unknown
+2025-05-11,12345,Saraighat Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,12345,Saraighat Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,12345,Saraighat Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,12345,Saraighat Express,"KISHANGANJ (KNE)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,12345,Saraighat Express,"NEW JALPAIGURI (NJP)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,12345,Saraighat Express,"DHUPGURI (DQG)
+								
+Avg. Delay: 23 Min's",23,Unknown
+2025-05-11,12345,Saraighat Express,"FALAKATA (FLK)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,12345,Saraighat Express,"NEW COOCH BEHAR (NCB)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,12345,Saraighat Express,"NEW ALIPURDAUR (NOQ)
+								
+Avg. Delay: 36 Min's",36,Unknown
+2025-05-11,12345,Saraighat Express,"NEW BONGAIGAON (NBQ)
+								
+Avg. Delay: 33 Min's",33,Unknown
+2025-05-11,12345,Saraighat Express,"KAMAKHYA (KYQ)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12345,Saraighat Express,"GUWAHATI (GHY)
+								
+Avg. Delay: 15 Min's",15,Unknown
+2025-05-11,12346,Saraighat Express,"GUWAHATI (GHY)
+								
+Avg. Delay: 2 Min's",2,Unknown
+2025-05-11,12346,Saraighat Express,"KAMAKHYA (KYQ)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,12346,Saraighat Express,"NEW BONGAIGAON (NBQ)
+								
+Avg. Delay: 32 Min's",32,Unknown
+2025-05-11,12346,Saraighat Express,"NEW ALIPURDAUR (NOQ)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,12346,Saraighat Express,"NEW COOCH BEHAR (NCB)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,12346,Saraighat Express,"FALAKATA (FLK)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,12346,Saraighat Express,"DHUPGURI (DQG)
+								
+Avg. Delay: 36 Min's",36,Unknown
+2025-05-11,12346,Saraighat Express,"NEW JALPAIGURI (NJP)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,12346,Saraighat Express,"KISHANGANJ (KNE)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,12346,Saraighat Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 25 Min's",25,Unknown
+2025-05-11,12346,Saraighat Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 25 Min's",25,Unknown
+2025-05-11,12346,Saraighat Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 46 Min's",46,Unknown
+2025-05-11,12346,Saraighat Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 50 Min's",50,Unknown
+2025-05-11,12346,Saraighat Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 50 Min's",50,Unknown
+2025-05-11,12346,Saraighat Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 51 Min's",51,Unknown
+2025-05-11,12346,Saraighat Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,12377,Padatik Express,"SEALDAH (SDAH)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12377,Padatik Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 23 Min's",23,Unknown
+2025-05-11,12377,Padatik Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,12377,Padatik Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,12377,Padatik Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12377,Padatik Express,"SAMSI (SM)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12377,Padatik Express,"DALKOLHA (DLK)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,12377,Padatik Express,"KISHANGANJ (KNE)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,12377,Padatik Express,"NEW JALPAIGURI (NJP)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12377,Padatik Express,"JALPAIGURI ROAD (JPE)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12377,Padatik Express,"NEW CHANGRABANDHA (NCBD)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12377,Padatik Express,"MATHABHANGA (MHBA)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12377,Padatik Express,"NEW COOCH BEHAR (NCB)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,12377,Padatik Express,"NEW ALIPURDAUR (NOQ)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12378,Padatik Express,"NEW ALIPURDAUR (NOQ)
+								
+Avg. Delay: 2 Min's",2,Unknown
+2025-05-11,12378,Padatik Express,"NEW COOCH BEHAR (NCB)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,12378,Padatik Express,"MATHABHANGA (MHBA)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12378,Padatik Express,"NEW CHANGRABANDHA (NCBD)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12378,Padatik Express,"JALPAIGURI ROAD (JPE)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12378,Padatik Express,"NEW JALPAIGURI (NJP)
+								
+Avg. Delay: 6 Min's",6,Unknown
+2025-05-11,12378,Padatik Express,"KISHANGANJ (KNE)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,12378,Padatik Express,"DALKOLHA (DLK)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12378,Padatik Express,"SAMSI (SM)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,12378,Padatik Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12378,Padatik Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,12378,Padatik Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 27 Min's",27,Unknown
+2025-05-11,12378,Padatik Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 36 Min's",36,Unknown
+2025-05-11,12378,Padatik Express,"SEALDAH (SDAH)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12367,Vikramshila Express,"BHAGALPUR (BGP)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12367,Vikramshila Express,"SULTANGANJ (SGG)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,12367,Vikramshila Express,"BARIARPUR (BUP)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,12367,Vikramshila Express,"JAMALPUR JN (JMP)
+								
+Avg. Delay: 25 Min's",25,Unknown
+2025-05-11,12367,Vikramshila Express,"DHARHARA (DRH)
+								
+Avg. Delay: 27 Min's",27,Unknown
+2025-05-11,12367,Vikramshila Express,"ABHAIPUR (AHA)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,12367,Vikramshila Express,"KAJRA (KJH)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,12367,Vikramshila Express,"KIUL JN (KIUL)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,12367,Vikramshila Express,"LUCKEESARAI JN (LKR)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,12367,Vikramshila Express,"BARHIYA (BRYA)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,12367,Vikramshila Express,"HATHIDAH JN (HTZ)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,12367,Vikramshila Express,"MOKAMEH JN (MKA)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,12367,Vikramshila Express,"BARH (BARH)
+								
+Avg. Delay: 40 Min's",40,Unknown
+2025-05-11,12367,Vikramshila Express,"BAKHTIYARPUR JN (BKP)
+								
+Avg. Delay: 45 Min's",45,Unknown
+2025-05-11,12367,Vikramshila Express,"KHUSROPUR (KOO)
+								
+Avg. Delay: 48 Min's",48,Unknown
+2025-05-11,12367,Vikramshila Express,"FATUHA JN (FUT)
+								
+Avg. Delay: 51 Min's",51,Unknown
+2025-05-11,12367,Vikramshila Express,"PATNA SAHEB (PNC)
+								
+Avg. Delay: 50 Min's",50,Unknown
+2025-05-11,12367,Vikramshila Express,"PATNA JN (PNBE)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,12367,Vikramshila Express,"ARA (ARA)
+								
+Avg. Delay: 52 Min's",52,Unknown
+2025-05-11,12367,Vikramshila Express,"BUXAR (BXR)
+								
+Avg. Delay: 59 Min's",59,Unknown
+2025-05-11,12367,Vikramshila Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,12367,Vikramshila Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 36 Min's",36,Unknown
+2025-05-11,12367,Vikramshila Express,"ANAND VIHAR TRM (ANVT)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,12368,Vikramshila Express,"ANAND VIHAR TRM (ANVT)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12368,Vikramshila Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 53 Min's",53,Unknown
+2025-05-11,12368,Vikramshila Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 33 Min's",33,Unknown
+2025-05-11,12368,Vikramshila Express,"BUXAR (BXR)
+								
+Avg. Delay: 41 Min's",41,Unknown
+2025-05-11,12368,Vikramshila Express,"ARA (ARA)
+								
+Avg. Delay: 54 Min's",54,Unknown
+2025-05-11,12368,Vikramshila Express,"PATNA JN (PNBE)
+								
+Avg. Delay: 75 Min's",75,Unknown
+2025-05-11,12368,Vikramshila Express,"PATNA SAHEB (PNC)
+								
+Avg. Delay: 78 Min's",78,Unknown
+2025-05-11,12368,Vikramshila Express,"FATUHA JN (FUT)
+								
+Avg. Delay: 84 Min's",84,Unknown
+2025-05-11,12368,Vikramshila Express,"KHUSROPUR (KOO)
+								
+Avg. Delay: 86 Min's",86,Unknown
+2025-05-11,12368,Vikramshila Express,"BAKHTIYARPUR JN (BKP)
+								
+Avg. Delay: 89 Min's",89,Unknown
+2025-05-11,12368,Vikramshila Express,"BARH (BARH)
+								
+Avg. Delay: 92 Min's",92,Unknown
+2025-05-11,12368,Vikramshila Express,"MOKAMEH JN (MKA)
+								
+Avg. Delay: 100 Min's",100,Unknown
+2025-05-11,12368,Vikramshila Express,"HATHIDAH JN (HTZ)
+								
+Avg. Delay: 104 Min's",104,Unknown
+2025-05-11,12368,Vikramshila Express,"BARHIYA (BRYA)
+								
+Avg. Delay: 109 Min's",109,Unknown
+2025-05-11,12368,Vikramshila Express,"LUCKEESARAI JN (LKR)
+								
+Avg. Delay: 97 Min's",97,Unknown
+2025-05-11,12368,Vikramshila Express,"KIUL JN (KIUL)
+								
+Avg. Delay: 56 Min's",56,Unknown
+2025-05-11,12368,Vikramshila Express,"KAJRA (KJH)
+								
+Avg. Delay: 56 Min's",56,Unknown
+2025-05-11,12368,Vikramshila Express,"ABHAIPUR (AHA)
+								
+Avg. Delay: 56 Min's",56,Unknown
+2025-05-11,12368,Vikramshila Express,"DHARHARA (DRH)
+								
+Avg. Delay: 55 Min's",55,Unknown
+2025-05-11,12368,Vikramshila Express,"JAMALPUR JN (JMP)
+								
+Avg. Delay: 59 Min's",59,Unknown
+2025-05-11,12368,Vikramshila Express,"BARIARPUR (BUP)
+								
+Avg. Delay: 64 Min's",64,Unknown
+2025-05-11,12368,Vikramshila Express,"SULTANGANJ (SGG)
+								
+Avg. Delay: 56 Min's",56,Unknown
+2025-05-11,12368,Vikramshila Express,"BHAGALPUR (BGP)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,12329,West Bengal Sampark Kranti Express,"SEALDAH (SDAH)
+								
+Avg. Delay: 0 Min's",0,Unknown
+2025-05-11,12329,West Bengal Sampark Kranti Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,12329,West Bengal Sampark Kranti Express,"DURGAPUR (DGR)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,12329,West Bengal Sampark Kranti Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 6 Min's",6,Unknown
+2025-05-11,12329,West Bengal Sampark Kranti Express,"DHANBAD JN (DHN)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,12329,West Bengal Sampark Kranti Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,12329,West Bengal Sampark Kranti Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,12329,West Bengal Sampark Kranti Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12329,West Bengal Sampark Kranti Express,"ANAND VIHAR TRM (ANVT)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,12330,West Bengal Sampark Kranti Express,"ANAND VIHAR TRM (ANVT)
+								
+Avg. Delay: 2 Min's",2,Unknown
+2025-05-11,12330,West Bengal Sampark Kranti Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 33 Min's",33,Unknown
+2025-05-11,12330,West Bengal Sampark Kranti Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12330,West Bengal Sampark Kranti Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12330,West Bengal Sampark Kranti Express,"DHANBAD JN (DHN)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,12330,West Bengal Sampark Kranti Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 27 Min's",27,Unknown
+2025-05-11,12330,West Bengal Sampark Kranti Express,"DURGAPUR (DGR)
+								
+Avg. Delay: 50 Min's",50,Unknown
+2025-05-11,12330,West Bengal Sampark Kranti Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,12330,West Bengal Sampark Kranti Express,"SEALDAH (SDAH)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12333,Vibhuti Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,12333,Vibhuti Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 43 Min's",43,Unknown
+2025-05-11,12333,Vibhuti Express,"PANAGARH (PAN)
+								
+Avg. Delay: 33 Min's",33,Unknown
+2025-05-11,12333,Vibhuti Express,"DURGAPUR (DGR)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,12333,Vibhuti Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 45 Min's",45,Unknown
+2025-05-11,12333,Vibhuti Express,"CHITTARANJAN (CRJ)
+								
+Avg. Delay: 51 Min's",51,Unknown
+2025-05-11,12333,Vibhuti Express,"JAMTARA (JMT)
+								
+Avg. Delay: 53 Min's",53,Unknown
+2025-05-11,12333,Vibhuti Express,"MADHUPUR JN (MDP)
+								
+Avg. Delay: 61 Min's",61,Unknown
+2025-05-11,12333,Vibhuti Express,"JASIDIH JN (JSME)
+								
+Avg. Delay: 63 Min's",63,Unknown
+2025-05-11,12333,Vibhuti Express,"JHAJHA (JAJ)
+								
+Avg. Delay: 44 Min's",44,Unknown
+2025-05-11,12333,Vibhuti Express,"KIUL JN (KIUL)
+								
+Avg. Delay: 61 Min's",61,Unknown
+2025-05-11,12333,Vibhuti Express,"MOKAMEH JN (MKA)
+								
+Avg. Delay: 79 Min's",79,Unknown
+2025-05-11,12333,Vibhuti Express,"BARH (BARH)
+								
+Avg. Delay: 83 Min's",83,Unknown
+2025-05-11,12333,Vibhuti Express,"BAKHTIYARPUR JN (BKP)
+								
+Avg. Delay: 87 Min's",87,Unknown
+2025-05-11,12333,Vibhuti Express,"FATUHA JN (FUT)
+								
+Avg. Delay: 95 Min's",95,Unknown
+2025-05-11,12333,Vibhuti Express,"PATNA JN (PNBE)
+								
+Avg. Delay: 102 Min's",102,Unknown
+2025-05-11,12333,Vibhuti Express,"DANAPUR (DNR)
+								
+Avg. Delay: 110 Min's",110,Unknown
+2025-05-11,12333,Vibhuti Express,"BIHTA (BTA)
+								
+Avg. Delay: 114 Min's",114,Unknown
+2025-05-11,12333,Vibhuti Express,"ARA (ARA)
+								
+Avg. Delay: 122 Min's",122,Unknown
+2025-05-11,12333,Vibhuti Express,"BIHIYA (BEA)
+								
+Avg. Delay: 125 Min's",125,Unknown
+2025-05-11,12333,Vibhuti Express,"RAGHUNATHPUR (RPR)
+								
+Avg. Delay: 128 Min's",128,Unknown
+2025-05-11,12333,Vibhuti Express,"DUMRAON (DURE)
+								
+Avg. Delay: 131 Min's",131,Unknown
+2025-05-11,12333,Vibhuti Express,"BUXAR (BXR)
+								
+Avg. Delay: 133 Min's",133,Unknown
+2025-05-11,12333,Vibhuti Express,"CHAUSA (CSA)
+								
+Avg. Delay: 136 Min's",136,Unknown
+2025-05-11,12333,Vibhuti Express,"GAHMAR (GMR)
+								
+Avg. Delay: 137 Min's",137,Unknown
+2025-05-11,12333,Vibhuti Express,"DILDARNAGAR JN (DLN)
+								
+Avg. Delay: 139 Min's",139,Unknown
+2025-05-11,12333,Vibhuti Express,"ZAMANIA (ZNA)
+								
+Avg. Delay: 142 Min's",142,Unknown
+2025-05-11,12333,Vibhuti Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 92 Min's",92,Unknown
+2025-05-11,12333,Vibhuti Express,"KASHI (KEI)
+								
+Avg. Delay: 93 Min's",93,Unknown
+2025-05-11,12333,Vibhuti Express,"VARANASI JN (BSB)
+								
+Avg. Delay: 79 Min's",79,Unknown
+2025-05-11,12333,Vibhuti Express,"BANARAS (BSBS)
+								
+Avg. Delay: 87 Min's",87,Unknown
+2025-05-11,12333,Vibhuti Express,"GYANPUR ROAD (GYN)
+								
+Avg. Delay: 90 Min's",90,Unknown
+2025-05-11,12333,Vibhuti Express,"PRAYAGRAJ RAMBAGH (PRRB)
+								
+Avg. Delay: 63 Min's",63,Unknown
+2025-05-11,12334,Vibhuti Express,"PRAYAGRAJ RAMBAGH (PRRB)
+								
+Avg. Delay: 51 Min's",51,Unknown
+2025-05-11,12334,Vibhuti Express,"GYANPUR ROAD (GYN)
+								
+Avg. Delay: 51 Min's",51,Unknown
+2025-05-11,12334,Vibhuti Express,"BANARAS (BSBS)
+								
+Avg. Delay: 48 Min's",48,Unknown
+2025-05-11,12334,Vibhuti Express,"VARANASI JN (BSB)
+								
+Avg. Delay: 52 Min's",52,Unknown
+2025-05-11,12334,Vibhuti Express,"KASHI (KEI)
+								
+Avg. Delay: 57 Min's",57,Unknown
+2025-05-11,12334,Vibhuti Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 60 Min's",60,Unknown
+2025-05-11,12334,Vibhuti Express,"ZAMANIA (ZNA)
+								
+Avg. Delay: 71 Min's",71,Unknown
+2025-05-11,12334,Vibhuti Express,"DILDARNAGAR JN (DLN)
+								
+Avg. Delay: 74 Min's",74,Unknown
+2025-05-11,12334,Vibhuti Express,"GAHMAR (GMR)
+								
+Avg. Delay: 79 Min's",79,Unknown
+2025-05-11,12334,Vibhuti Express,"CHAUSA (CSA)
+								
+Avg. Delay: 81 Min's",81,Unknown
+2025-05-11,12334,Vibhuti Express,"BUXAR (BXR)
+								
+Avg. Delay: 79 Min's",79,Unknown
+2025-05-11,12334,Vibhuti Express,"DUMRAON (DURE)
+								
+Avg. Delay: 83 Min's",83,Unknown
+2025-05-11,12334,Vibhuti Express,"RAGHUNATHPUR (RPR)
+								
+Avg. Delay: 86 Min's",86,Unknown
+2025-05-11,12334,Vibhuti Express,"BIHIYA (BEA)
+								
+Avg. Delay: 87 Min's",87,Unknown
+2025-05-11,12334,Vibhuti Express,"ARA (ARA)
+								
+Avg. Delay: 91 Min's",91,Unknown
+2025-05-11,12334,Vibhuti Express,"BIHTA (BTA)
+								
+Avg. Delay: 98 Min's",98,Unknown
+2025-05-11,12334,Vibhuti Express,"DANAPUR (DNR)
+								
+Avg. Delay: 99 Min's",99,Unknown
+2025-05-11,12334,Vibhuti Express,"PATNA JN (PNBE)
+								
+Avg. Delay: 99 Min's",99,Unknown
+2025-05-11,12334,Vibhuti Express,"FATUHA JN (FUT)
+								
+Avg. Delay: 114 Min's",114,Unknown
+2025-05-11,12334,Vibhuti Express,"BAKHTIYARPUR JN (BKP)
+								
+Avg. Delay: 122 Min's",122,Unknown
+2025-05-11,12334,Vibhuti Express,"BARH (BARH)
+								
+Avg. Delay: 127 Min's",127,Unknown
+2025-05-11,12334,Vibhuti Express,"MOKAMEH JN (MKA)
+								
+Avg. Delay: 131 Min's",131,Unknown
+2025-05-11,12334,Vibhuti Express,"KIUL JN (KIUL)
+								
+Avg. Delay: 150 Min's",150,Unknown
+2025-05-11,12334,Vibhuti Express,"JHAJHA (JAJ)
+								
+Avg. Delay: 119 Min's",119,Unknown
+2025-05-11,12334,Vibhuti Express,"JASIDIH JN (JSME)
+								
+Avg. Delay: 133 Min's",133,Unknown
+2025-05-11,12334,Vibhuti Express,"MADHUPUR JN (MDP)
+								
+Avg. Delay: 136 Min's",136,Unknown
+2025-05-11,12334,Vibhuti Express,"JAMTARA (JMT)
+								
+Avg. Delay: 140 Min's",140,Unknown
+2025-05-11,12334,Vibhuti Express,"CHITTARANJAN (CRJ)
+								
+Avg. Delay: 141 Min's",141,Unknown
+2025-05-11,12334,Vibhuti Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 161 Min's",161,Unknown
+2025-05-11,12334,Vibhuti Express,"DURGAPUR (DGR)
+								
+Avg. Delay: 174 Min's",174,Unknown
+2025-05-11,12334,Vibhuti Express,"PANAGARH (PAN)
+								
+Avg. Delay: 177 Min's",177,Unknown
+2025-05-11,12334,Vibhuti Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 172 Min's",172,Unknown
+2025-05-11,12334,Vibhuti Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 159 Min's",159,Unknown
+2025-05-11,12339,Coalfield Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12339,Coalfield Express,"MANKAR (MNAE)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,12339,Coalfield Express,"PANAGARH (PAN)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12339,Coalfield Express,"DURGAPUR (DGR)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12339,Coalfield Express,"WARIA (OYR)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,12339,Coalfield Express,"ANDAL JN (UDL)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,12339,Coalfield Express,"RANIGANJ (RNG)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,12339,Coalfield Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 22 Min's",22,Unknown
+2025-05-11,12339,Coalfield Express,"SITARAMPUR (STN)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,12339,Coalfield Express,"KULTI (ULT)
+								
+Avg. Delay: 27 Min's",27,Unknown
+2025-05-11,12339,Coalfield Express,"BARAKAR (BRR)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,12339,Coalfield Express,"KUMARDUBI (KMME)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,12339,Coalfield Express,"DHANBAD JN (DHN)
+								
+Avg. Delay: -8 Min's",-8,Unknown
+2025-05-11,12340,Coalfield Express,"DHANBAD JN (DHN)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12340,Coalfield Express,"KUMARDUBI (KMME)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,12340,Coalfield Express,"BARAKAR (BRR)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12340,Coalfield Express,"KULTI (ULT)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,12340,Coalfield Express,"SITARAMPUR (STN)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,12340,Coalfield Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,12340,Coalfield Express,"RANIGANJ (RNG)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,12340,Coalfield Express,"ANDAL JN (UDL)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,12340,Coalfield Express,"WARIA (OYR)
+								
+Avg. Delay: 22 Min's",22,Unknown
+2025-05-11,12340,Coalfield Express,"DURGAPUR (DGR)
+								
+Avg. Delay: 23 Min's",23,Unknown
+2025-05-11,12340,Coalfield Express,"PANAGARH (PAN)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,12340,Coalfield Express,"MANKAR (MNAE)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,12340,Coalfield Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12381,Poorva Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 0 Min's",0,Unknown
+2025-05-11,12381,Poorva Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,12381,Poorva Express,"DURGAPUR (DGR)
+								
+Avg. Delay: 6 Min's",6,Unknown
+2025-05-11,12381,Poorva Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,12381,Poorva Express,"DHANBAD JN (DHN)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12381,Poorva Express,"PARASNATH (PNME)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12381,Poorva Express,"KODERMA (KQR)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12381,Poorva Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 15 Min's",15,Unknown
+2025-05-11,12381,Poorva Express,"RAFIGANJ (RFJ)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,12381,Poorva Express,"ANUGRAHA N ROAD (AUBR)
+								
+Avg. Delay: 27 Min's",27,Unknown
+2025-05-11,12381,Poorva Express,"DEHRI ON SONE (DOS)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,12381,Poorva Express,"SASARAM (SSM)
+								
+Avg. Delay: 33 Min's",33,Unknown
+2025-05-11,12381,Poorva Express,"BHABUA ROAD (BBU)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,12381,Poorva Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 15 Min's",15,Unknown
+2025-05-11,12381,Poorva Express,"VARANASI JN (BSB)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,12381,Poorva Express,"JANGHAI JN (JNH)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,12381,Poorva Express,"PRAYAGRAJ JN (PRYJ)
+								
+Avg. Delay: 62 Min's",62,Unknown
+2025-05-11,12381,Poorva Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 80 Min's",80,Unknown
+2025-05-11,12381,Poorva Express,"ETAWAH (ETW)
+								
+Avg. Delay: 97 Min's",97,Unknown
+2025-05-11,12381,Poorva Express,"TUNDLA JN (TDL)
+								
+Avg. Delay: 84 Min's",84,Unknown
+2025-05-11,12381,Poorva Express,"ALIGARH JN (ALJN)
+								
+Avg. Delay: 96 Min's",96,Unknown
+2025-05-11,12381,Poorva Express,"NEW DELHI (NDLS)
+								
+Avg. Delay: 87 Min's",87,Unknown
+2025-05-11,12382,Poorva Express,"NEW DELHI (NDLS)
+								
+Avg. Delay: 2 Min's",2,Unknown
+2025-05-11,12382,Poorva Express,"ALIGARH JN (ALJN)
+								
+Avg. Delay: 15 Min's",15,Unknown
+2025-05-11,12382,Poorva Express,"TUNDLA JN (TDL)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12382,Poorva Express,"ETAWAH (ETW)
+								
+Avg. Delay: 22 Min's",22,Unknown
+2025-05-11,12382,Poorva Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,12382,Poorva Express,"PRAYAGRAJ JN (PRYJ)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,12382,Poorva Express,"JANGHAI JN (JNH)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,12382,Poorva Express,"VARANASI JN (BSB)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,12382,Poorva Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,12382,Poorva Express,"BHABUA ROAD (BBU)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,12382,Poorva Express,"SASARAM (SSM)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,12382,Poorva Express,"DEHRI ON SONE (DOS)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,12382,Poorva Express,"ANUGRAHA N ROAD (AUBR)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,12382,Poorva Express,"RAFIGANJ (RFJ)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,12382,Poorva Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,12382,Poorva Express,"KODERMA (KQR)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,12382,Poorva Express,"PARASNATH (PNME)
+								
+Avg. Delay: 46 Min's",46,Unknown
+2025-05-11,12382,Poorva Express,"DHANBAD JN (DHN)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,12382,Poorva Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,12382,Poorva Express,"DURGAPUR (DGR)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,12382,Poorva Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,12382,Poorva Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: -1 Min's",-1,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 0 Min's",0,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"DEHRI ON SONE (DOS)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"SASARAM (SSM)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"BHABUA ROAD (BBU)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"PRAYAGRAJ CHHEOKI (PCOI)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"MANIKPUR JN (MKP)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"SATNA (STA)
+								
+Avg. Delay: 27 Min's",27,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"KATNI (KTE)
+								
+Avg. Delay: 52 Min's",52,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"JABALPUR (JBP)
+								
+Avg. Delay: 47 Min's",47,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"NAINPUR JN (NIR)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"BALAGHAT JN (BTC)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"GONDIA JN (G)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"NAGBHIR JN (NAB)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"BALHARSHAH (BPQ)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"WARANGAL (WL)
+								
+Avg. Delay: 23 Min's",23,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"VIJAYAWADA JN (BZA)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"ONGOLE (OGL)
+								
+Avg. Delay: 49 Min's",49,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"NELLORE (NLR)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,12389,Gaya–Sealdah Express,"CHENNAI CENTRAL (MAS)
+								
+Avg. Delay: 64 Min's",64,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"CHENNAI CENTRAL (MAS)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"NELLORE (NLR)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"ONGOLE (OGL)
+								
+Avg. Delay: 27 Min's",27,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"VIJAYAWADA JN (BZA)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"WARANGAL (WL)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"BALHARSHAH (BPQ)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"CHANDA FORT (CAF)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"NAGBHIR JN (NAB)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"GONDIA JN (G)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"BALAGHAT JN (BTC)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"NAINPUR JN (NIR)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"JABALPUR (JBP)
+								
+Avg. Delay: 95 Min's",95,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"KATNI (KTE)
+								
+Avg. Delay: 110 Min's",110,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"SATNA (STA)
+								
+Avg. Delay: 110 Min's",110,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"MANIKPUR JN (MKP)
+								
+Avg. Delay: 73 Min's",73,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"PRAYAGRAJ CHHEOKI (PCOI)
+								
+Avg. Delay: 117 Min's",117,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 43 Min's",43,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"BHABUA ROAD (BBU)
+								
+Avg. Delay: 47 Min's",47,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"SASARAM (SSM)
+								
+Avg. Delay: 55 Min's",55,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"DEHRI ON SONE (DOS)
+								
+Avg. Delay: 56 Min's",56,Unknown
+2025-05-11,12390,Sealdah–Gaya Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,12391,Shaktipunj Express,"RAJGIR (RGD)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12391,Shaktipunj Express,"NALANDA (NLD)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,12391,Shaktipunj Express,"PAWAPURI ROAD (POE)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12391,Shaktipunj Express,"BIHAR SHARIF (BEHS)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12391,Shaktipunj Express,"WENA (WENA)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12391,Shaktipunj Express,"HARNAUT (HRT)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,12391,Shaktipunj Express,"BAKHTIYARPUR JN (BKP)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,12391,Shaktipunj Express,"KHUSROPUR (KOO)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,12391,Shaktipunj Express,"FATUHA JN (FUT)
+								
+Avg. Delay: 38 Min's",38,Unknown
+2025-05-11,12391,Shaktipunj Express,"PATNA SAHEB (PNC)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,12391,Shaktipunj Express,"RJNDR NGR BIHAR (RJPB)
+								
+Avg. Delay: 42 Min's",42,Unknown
+2025-05-11,12391,Shaktipunj Express,"PATNA JN (PNBE)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,12391,Shaktipunj Express,"PHULWARI SHARIF (PWS)
+								
+Avg. Delay: 36 Min's",36,Unknown
+2025-05-11,12391,Shaktipunj Express,"DANAPUR (DNR)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,12391,Shaktipunj Express,"BIHTA (BTA)
+								
+Avg. Delay: 42 Min's",42,Unknown
+2025-05-11,12391,Shaktipunj Express,"ARA (ARA)
+								
+Avg. Delay: 42 Min's",42,Unknown
+2025-05-11,12391,Shaktipunj Express,"BIHIYA (BEA)
+								
+Avg. Delay: 47 Min's",47,Unknown
+2025-05-11,12391,Shaktipunj Express,"DUMRAON (DURE)
+								
+Avg. Delay: 48 Min's",48,Unknown
+2025-05-11,12391,Shaktipunj Express,"BUXAR (BXR)
+								
+Avg. Delay: 51 Min's",51,Unknown
+2025-05-11,12391,Shaktipunj Express,"GAHMAR (GMR)
+								
+Avg. Delay: 59 Min's",59,Unknown
+2025-05-11,12391,Shaktipunj Express,"DILDARNAGAR JN (DLN)
+								
+Avg. Delay: 62 Min's",62,Unknown
+2025-05-11,12391,Shaktipunj Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 41 Min's",41,Unknown
+2025-05-11,12391,Shaktipunj Express,"VARANASI JN (BSB)
+								
+Avg. Delay: 58 Min's",58,Unknown
+2025-05-11,12391,Shaktipunj Express,"JAUNPUR CITY (JOP)
+								
+Avg. Delay: 75 Min's",75,Unknown
+2025-05-11,12391,Shaktipunj Express,"SULTANPUR (SLN)
+								
+Avg. Delay: 77 Min's",77,Unknown
+2025-05-11,12391,Shaktipunj Express,"MUSAFIR KHANA (MFKA)
+								
+Avg. Delay: 82 Min's",82,Unknown
+2025-05-11,12391,Shaktipunj Express,"NIHALGARH (NHH)
+								
+Avg. Delay: 85 Min's",85,Unknown
+2025-05-11,12391,Shaktipunj Express,"LUCKNOW NR (LKO)
+								
+Avg. Delay: 48 Min's",48,Unknown
+2025-05-11,12391,Shaktipunj Express,"SHAHJEHANPUR (SPN)
+								
+Avg. Delay: 52 Min's",52,Unknown
+2025-05-11,12391,Shaktipunj Express,"BAREILLY (BE)
+								
+Avg. Delay: 54 Min's",54,Unknown
+2025-05-11,12391,Shaktipunj Express,"MORADABAD (MB)
+								
+Avg. Delay: 53 Min's",53,Unknown
+2025-05-11,12391,Shaktipunj Express,"GHAZIABAD (GZB)
+								
+Avg. Delay: 72 Min's",72,Unknown
+2025-05-11,12391,Shaktipunj Express,"NEW DELHI (NDLS)
+								
+Avg. Delay: 78 Min's",78,Unknown
+2025-05-11,12392,Shaktipunj Express,"NEW DELHI (NDLS)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,12392,Shaktipunj Express,"GHAZIABAD (GZB)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12392,Shaktipunj Express,"MORADABAD (MB)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,12392,Shaktipunj Express,"BAREILLY (BE)
+								
+Avg. Delay: 50 Min's",50,Unknown
+2025-05-11,12392,Shaktipunj Express,"SHAHJEHANPUR (SPN)
+								
+Avg. Delay: 51 Min's",51,Unknown
+2025-05-11,12392,Shaktipunj Express,"LUCKNOW NR (LKO)
+								
+Avg. Delay: 53 Min's",53,Unknown
+2025-05-11,12392,Shaktipunj Express,"NIHALGARH (NHH)
+								
+Avg. Delay: 58 Min's",58,Unknown
+2025-05-11,12392,Shaktipunj Express,"MUSAFIR KHANA (MFKA)
+								
+Avg. Delay: 59 Min's",59,Unknown
+2025-05-11,12392,Shaktipunj Express,"SULTANPUR (SLN)
+								
+Avg. Delay: 64 Min's",64,Unknown
+2025-05-11,12392,Shaktipunj Express,"JAUNPUR CITY (JOP)
+								
+Avg. Delay: 64 Min's",64,Unknown
+2025-05-11,12392,Shaktipunj Express,"VARANASI JN (BSB)
+								
+Avg. Delay: 50 Min's",50,Unknown
+2025-05-11,12392,Shaktipunj Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 55 Min's",55,Unknown
+2025-05-11,12392,Shaktipunj Express,"DILDARNAGAR JN (DLN)
+								
+Avg. Delay: 61 Min's",61,Unknown
+2025-05-11,12392,Shaktipunj Express,"GAHMAR (GMR)
+								
+Avg. Delay: 68 Min's",68,Unknown
+2025-05-11,12392,Shaktipunj Express,"BUXAR (BXR)
+								
+Avg. Delay: 57 Min's",57,Unknown
+2025-05-11,12392,Shaktipunj Express,"DUMRAON (DURE)
+								
+Avg. Delay: 60 Min's",60,Unknown
+2025-05-11,12392,Shaktipunj Express,"BIHIYA (BEA)
+								
+Avg. Delay: 64 Min's",64,Unknown
+2025-05-11,12392,Shaktipunj Express,"ARA (ARA)
+								
+Avg. Delay: 66 Min's",66,Unknown
+2025-05-11,12392,Shaktipunj Express,"BIHTA (BTA)
+								
+Avg. Delay: 75 Min's",75,Unknown
+2025-05-11,12392,Shaktipunj Express,"DANAPUR (DNR)
+								
+Avg. Delay: 87 Min's",87,Unknown
+2025-05-11,12392,Shaktipunj Express,"PHULWARI SHARIF (PWS)
+								
+Avg. Delay: 89 Min's",89,Unknown
+2025-05-11,12392,Shaktipunj Express,"PATNA JN (PNBE)
+								
+Avg. Delay: 87 Min's",87,Unknown
+2025-05-11,12392,Shaktipunj Express,"RJNDR NGR BIHAR (RJPB)
+								
+Avg. Delay: 89 Min's",89,Unknown
+2025-05-11,12392,Shaktipunj Express,"PATNA SAHEB (PNC)
+								
+Avg. Delay: 89 Min's",89,Unknown
+2025-05-11,12392,Shaktipunj Express,"FATUHA JN (FUT)
+								
+Avg. Delay: 101 Min's",101,Unknown
+2025-05-11,12392,Shaktipunj Express,"KHUSROPUR (KOO)
+								
+Avg. Delay: 103 Min's",103,Unknown
+2025-05-11,12392,Shaktipunj Express,"BAKHTIYARPUR JN (BKP)
+								
+Avg. Delay: 121 Min's",121,Unknown
+2025-05-11,12392,Shaktipunj Express,"HARNAUT (HRT)
+								
+Avg. Delay: 126 Min's",126,Unknown
+2025-05-11,12392,Shaktipunj Express,"WENA (WENA)
+								
+Avg. Delay: 128 Min's",128,Unknown
+2025-05-11,12392,Shaktipunj Express,"BIHAR SHARIF (BEHS)
+								
+Avg. Delay: 121 Min's",121,Unknown
+2025-05-11,12392,Shaktipunj Express,"PAWAPURI ROAD (POE)
+								
+Avg. Delay: 125 Min's",125,Unknown
+2025-05-11,12392,Shaktipunj Express,"NALANDA (NLD)
+								
+Avg. Delay: 126 Min's",126,Unknown
+2025-05-11,12392,Shaktipunj Express,"RAJGIR (RGD)
+								
+Avg. Delay: 82 Min's",82,Unknown
+2025-05-11,12859,Gitanjali Express,"C SHIVAJI TERM MUMBAI (CSMT)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12859,Gitanjali Express,"DADAR (DR)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,12859,Gitanjali Express,"KALYAN JN (KYN)
+								
+Avg. Delay: 6 Min's",6,Unknown
+2025-05-11,12859,Gitanjali Express,"IGATPURI (IGP)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,12859,Gitanjali Express,"NASIK ROAD (NK)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12859,Gitanjali Express,"JALGAON JN (JL)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,12859,Gitanjali Express,"BHUSAVAL JN (BSL)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12859,Gitanjali Express,"MALKAPUR (MKU)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12859,Gitanjali Express,"SHEGAON (SEG)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,12859,Gitanjali Express,"AKOLA JN (AK)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,12859,Gitanjali Express,"BADNERA JN (BD)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,12859,Gitanjali Express,"WARDHA JN (WR)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,12859,Gitanjali Express,"NAGPUR (NGP)
+								
+Avg. Delay: 2 Min's",2,Unknown
+2025-05-11,12859,Gitanjali Express,"BHANDARA ROAD (BRD)
+								
+Avg. Delay: 6 Min's",6,Unknown
+2025-05-11,12859,Gitanjali Express,"GONDIA JN (G)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12859,Gitanjali Express,"RAJ NANDGAON (RJN)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12859,Gitanjali Express,"DURG (DURG)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12859,Gitanjali Express,"RAIPUR JN (R)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,12859,Gitanjali Express,"BILASPUR JN (BSP)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,12859,Gitanjali Express,"RAIGARH (RIG)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,12859,Gitanjali Express,"JHARSUGUDA JN (JSG)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12859,Gitanjali Express,"ROURKELA (ROU)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,12859,Gitanjali Express,"CHAKRADHARPUR (CKP)
+								
+Avg. Delay: 53 Min's",53,Unknown
+2025-05-11,12859,Gitanjali Express,"TATANAGAR JN (TATA)
+								
+Avg. Delay: 96 Min's",96,Unknown
+2025-05-11,12859,Gitanjali Express,"KHARAGPUR JN (KGP)
+								
+Avg. Delay: 104 Min's",104,Unknown
+2025-05-11,12859,Gitanjali Express,"SANTRAGACHI JN (SRC)
+								
+Avg. Delay: 105 Min's",105,Unknown
+2025-05-11,12859,Gitanjali Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 71 Min's",71,Unknown
+2025-05-11,12860,Gitanjali Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,12860,Gitanjali Express,"KHARAGPUR JN (KGP)
+								
+Avg. Delay: 22 Min's",22,Unknown
+2025-05-11,12860,Gitanjali Express,"TATANAGAR JN (TATA)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,12860,Gitanjali Express,"CHAKRADHARPUR (CKP)
+								
+Avg. Delay: 48 Min's",48,Unknown
+2025-05-11,12860,Gitanjali Express,"ROURKELA (ROU)
+								
+Avg. Delay: 66 Min's",66,Unknown
+2025-05-11,12860,Gitanjali Express,"JHARSUGUDA JN (JSG)
+								
+Avg. Delay: 58 Min's",58,Unknown
+2025-05-11,12860,Gitanjali Express,"RAIGARH (RIG)
+								
+Avg. Delay: 62 Min's",62,Unknown
+2025-05-11,12860,Gitanjali Express,"BILASPUR JN (BSP)
+								
+Avg. Delay: 59 Min's",59,Unknown
+2025-05-11,12860,Gitanjali Express,"RAIPUR JN (R)
+								
+Avg. Delay: 66 Min's",66,Unknown
+2025-05-11,12860,Gitanjali Express,"DURG (DURG)
+								
+Avg. Delay: 57 Min's",57,Unknown
+2025-05-11,12860,Gitanjali Express,"RAJ NANDGAON (RJN)
+								
+Avg. Delay: 60 Min's",60,Unknown
+2025-05-11,12860,Gitanjali Express,"GONDIA JN (G)
+								
+Avg. Delay: 63 Min's",63,Unknown
+2025-05-11,12860,Gitanjali Express,"BHANDARA ROAD (BRD)
+								
+Avg. Delay: 67 Min's",67,Unknown
+2025-05-11,12860,Gitanjali Express,"NAGPUR (NGP)
+								
+Avg. Delay: 59 Min's",59,Unknown
+2025-05-11,12860,Gitanjali Express,"WARDHA JN (WR)
+								
+Avg. Delay: 64 Min's",64,Unknown
+2025-05-11,12860,Gitanjali Express,"BADNERA JN (BD)
+								
+Avg. Delay: 57 Min's",57,Unknown
+2025-05-11,12860,Gitanjali Express,"AKOLA JN (AK)
+								
+Avg. Delay: 64 Min's",64,Unknown
+2025-05-11,12860,Gitanjali Express,"SHEGAON (SEG)
+								
+Avg. Delay: 65 Min's",65,Unknown
+2025-05-11,12860,Gitanjali Express,"MALKAPUR (MKU)
+								
+Avg. Delay: 66 Min's",66,Unknown
+2025-05-11,12860,Gitanjali Express,"BHUSAVAL JN (BSL)
+								
+Avg. Delay: 66 Min's",66,Unknown
+2025-05-11,12860,Gitanjali Express,"JALGAON JN (JL)
+								
+Avg. Delay: 68 Min's",68,Unknown
+2025-05-11,12860,Gitanjali Express,"NASIK ROAD (NK)
+								
+Avg. Delay: 65 Min's",65,Unknown
+2025-05-11,12860,Gitanjali Express,"IGATPURI (IGP)
+								
+Avg. Delay: 59 Min's",59,Unknown
+2025-05-11,12860,Gitanjali Express,"KALYAN JN (KYN)
+								
+Avg. Delay: 65 Min's",65,Unknown
+2025-05-11,12860,Gitanjali Express,"DADAR (DR)
+								
+Avg. Delay: 67 Min's",67,Unknown
+2025-05-11,12860,Gitanjali Express,"C SHIVAJI TERM MUMBAI (CSMT)
+								
+Avg. Delay: 63 Min's",63,Unknown
+2025-05-11,13017,Ganadevta Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13017,Ganadevta Express,"SEORAPHULI (SHE)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,13017,Ganadevta Express,"BANDEL JN (BDC)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,13017,Ganadevta Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,13017,Ganadevta Express,"GUSKARA (GKH)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,13017,Ganadevta Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,13017,Ganadevta Express,"PRANTIK (PNE)
+								
+Avg. Delay: 22 Min's",22,Unknown
+2025-05-11,13017,Ganadevta Express,"AHMADPUR JN (AMP)
+								
+Avg. Delay: 22 Min's",22,Unknown
+2025-05-11,13017,Ganadevta Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,13017,Ganadevta Express,"MALLARPUR (MLV)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,13017,Ganadevta Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,13017,Ganadevta Express,"NALHATI JN (NHT)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,13017,Ganadevta Express,"MORGRAM (MGAE)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,13017,Ganadevta Express,"SAGARDIGHI (SDI)
+								
+Avg. Delay: 36 Min's",36,Unknown
+2025-05-11,13017,Ganadevta Express,"AZIMGANJ JN (AZ)
+								
+Avg. Delay: -9 Min's",-9,Unknown
+2025-05-11,13018,Ganadevta Express,"AZIMGANJ JN (AZ)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13018,Ganadevta Express,"SAGARDIGHI (SDI)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,13018,Ganadevta Express,"MORGRAM (MGAE)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,13018,Ganadevta Express,"NALHATI JN (NHT)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,13018,Ganadevta Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,13018,Ganadevta Express,"MALLARPUR (MLV)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,13018,Ganadevta Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,13018,Ganadevta Express,"AHMADPUR JN (AMP)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,13018,Ganadevta Express,"PRANTIK (PNE)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,13018,Ganadevta Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,13018,Ganadevta Express,"GUSKARA (GKH)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,13018,Ganadevta Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,13018,Ganadevta Express,"BANDEL JN (BDC)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,13018,Ganadevta Express,"SEORAPHULI (SHE)
+								
+Avg. Delay: 25 Min's",25,Unknown
+2025-05-11,13018,Ganadevta Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,13053,Kulik Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,13053,Kulik Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,13053,Kulik Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 27 Min's",27,Unknown
+2025-05-11,13053,Kulik Express,"PRANTIK (PNE)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,13053,Kulik Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 32 Min's",32,Unknown
+2025-05-11,13053,Kulik Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,13053,Kulik Express,"PAKUR (PKR)
+								
+Avg. Delay: 38 Min's",38,Unknown
+2025-05-11,13053,Kulik Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,13053,Kulik Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,13053,Kulik Express,"SAMSI (SM)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,13053,Kulik Express,"BHALUKA ROAD F (BKRD)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,13053,Kulik Express,"HARISCHANDRPUR (HCR)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,13053,Kulik Express,"BARSOI JN (BOE)
+								
+Avg. Delay: 27 Min's",27,Unknown
+2025-05-11,13053,Kulik Express,"RAIGANJ (RGJ)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,13053,Kulik Express,"KALIYANGANJ (KAJ)
+								
+Avg. Delay: 41 Min's",41,Unknown
+2025-05-11,13053,Kulik Express,"RADHIKAPUR (RDP)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,13054,Kulik Express,"RADHIKAPUR (RDP)
+								
+Avg. Delay: 0 Min's",0,Unknown
+2025-05-11,13054,Kulik Express,"KALIYANGANJ (KAJ)
+								
+Avg. Delay: 2 Min's",2,Unknown
+2025-05-11,13054,Kulik Express,"RAIGANJ (RGJ)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13054,Kulik Express,"BARSOI JN (BOE)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,13054,Kulik Express,"HARISCHANDRPUR (HCR)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,13054,Kulik Express,"BHALUKA ROAD F (BKRD)
+								
+Avg. Delay: 25 Min's",25,Unknown
+2025-05-11,13054,Kulik Express,"SAMSI (SM)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,13054,Kulik Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,13054,Kulik Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,13054,Kulik Express,"PAKUR (PKR)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,13054,Kulik Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,13054,Kulik Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,13054,Kulik Express,"PRANTIK (PNE)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,13054,Kulik Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,13054,Kulik Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 36 Min's",36,Unknown
+2025-05-11,13054,Kulik Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: -4 Min's",-4,Unknown
+2025-05-11,13173,Kanchanjungha Express,"SEALDAH (SDAH)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,13173,Kanchanjungha Express,"DAKHINESWAR (DAKE)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,13173,Kanchanjungha Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 32 Min's",32,Unknown
+2025-05-11,13173,Kanchanjungha Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 44 Min's",44,Unknown
+2025-05-11,13173,Kanchanjungha Express,"AHMADPUR JN (AMP)
+								
+Avg. Delay: 43 Min's",43,Unknown
+2025-05-11,13173,Kanchanjungha Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 47 Min's",47,Unknown
+2025-05-11,13173,Kanchanjungha Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 59 Min's",59,Unknown
+2025-05-11,13173,Kanchanjungha Express,"MURARAI (MRR)
+								
+Avg. Delay: 73 Min's",73,Unknown
+2025-05-11,13173,Kanchanjungha Express,"PAKUR (PKR)
+								
+Avg. Delay: 76 Min's",76,Unknown
+2025-05-11,13173,Kanchanjungha Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,13173,Kanchanjungha Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,13173,Kanchanjungha Express,"SAMSI (SM)
+								
+Avg. Delay: 46 Min's",46,Unknown
+2025-05-11,13173,Kanchanjungha Express,"BARSOI JN (BOE)
+								
+Avg. Delay: 60 Min's",60,Unknown
+2025-05-11,13173,Kanchanjungha Express,"DALKOLHA (DLK)
+								
+Avg. Delay: 68 Min's",68,Unknown
+2025-05-11,13173,Kanchanjungha Express,"KISHANGANJ (KNE)
+								
+Avg. Delay: 58 Min's",58,Unknown
+2025-05-11,13173,Kanchanjungha Express,"ALUABARI ROAD (AUB)
+								
+Avg. Delay: 66 Min's",66,Unknown
+2025-05-11,13173,Kanchanjungha Express,"NEW JALPAIGURI (NJP)
+								
+Avg. Delay: 43 Min's",43,Unknown
+2025-05-11,13173,Kanchanjungha Express,"JALPAIGURI ROAD (JPE)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,13173,Kanchanjungha Express,"NEW MAYNAGURI (NMX)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,13173,Kanchanjungha Express,"DHUPGURI (DQG)
+								
+Avg. Delay: 48 Min's",48,Unknown
+2025-05-11,13173,Kanchanjungha Express,"FALAKATA (FLK)
+								
+Avg. Delay: 47 Min's",47,Unknown
+2025-05-11,13173,Kanchanjungha Express,"NEW COOCH BEHAR (NCB)
+								
+Avg. Delay: 46 Min's",46,Unknown
+2025-05-11,13173,Kanchanjungha Express,"NEW ALIPURDAUR (NOQ)
+								
+Avg. Delay: 47 Min's",47,Unknown
+2025-05-11,13173,Kanchanjungha Express,"KAMAKHYAGURI (KAMG)
+								
+Avg. Delay: 52 Min's",52,Unknown
+2025-05-11,13173,Kanchanjungha Express,"GOSSAIGAON HAT (GOGH)
+								
+Avg. Delay: 55 Min's",55,Unknown
+2025-05-11,13173,Kanchanjungha Express,"FAKIRAGRAM JN (FKM)
+								
+Avg. Delay: 65 Min's",65,Unknown
+2025-05-11,13173,Kanchanjungha Express,"KOKRAJHAR (KOJ)
+								
+Avg. Delay: 71 Min's",71,Unknown
+2025-05-11,13173,Kanchanjungha Express,"NEW BONGAIGAON (NBQ)
+								
+Avg. Delay: 56 Min's",56,Unknown
+2025-05-11,13173,Kanchanjungha Express,"BARPETA ROAD (BPRD)
+								
+Avg. Delay: 62 Min's",62,Unknown
+2025-05-11,13173,Kanchanjungha Express,"RANGIYA JN (RNY)
+								
+Avg. Delay: 54 Min's",54,Unknown
+2025-05-11,13173,Kanchanjungha Express,"KAMAKHYA (KYQ)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,13173,Kanchanjungha Express,"GUWAHATI (GHY)
+								
+Avg. Delay: 54 Min's",54,Unknown
+2025-05-11,13173,Kanchanjungha Express,"HOJAI (HJI)
+								
+Avg. Delay: 71 Min's",71,Unknown
+2025-05-11,13173,Kanchanjungha Express,"LANKA (LKA)
+								
+Avg. Delay: 72 Min's",72,Unknown
+2025-05-11,13173,Kanchanjungha Express,"LUMDING JN (LMG)
+								
+Avg. Delay: 65 Min's",65,Unknown
+2025-05-11,13173,Kanchanjungha Express,"NEW HAFLONG (NHLG)
+								
+Avg. Delay: 66 Min's",66,Unknown
+2025-05-11,13173,Kanchanjungha Express,"BIHARA (BHZ)
+								
+Avg. Delay: 41 Min's",41,Unknown
+2025-05-11,13173,Kanchanjungha Express,"BADARPUR JN (BPB)
+								
+Avg. Delay: 64 Min's",64,Unknown
+2025-05-11,13173,Kanchanjungha Express,"NEW KARIMGANJ (NKMG)
+								
+Avg. Delay: 70 Min's",70,Unknown
+2025-05-11,13173,Kanchanjungha Express,"DHARMANAGAR (DMR)
+								
+Avg. Delay: 78 Min's",78,Unknown
+2025-05-11,13173,Kanchanjungha Express,"KUMARGHAT (KUGT)
+								
+Avg. Delay: 80 Min's",80,Unknown
+2025-05-11,13173,Kanchanjungha Express,"AMBASA (ABSA)
+								
+Avg. Delay: 76 Min's",76,Unknown
+2025-05-11,13173,Kanchanjungha Express,"AGARTALA (AGTL)
+								
+Avg. Delay: 78 Min's",78,Unknown
+2025-05-11,13173,Kanchanjungha Express,"UDAIPUR TRIPURA (UDPU)
+								
+Avg. Delay: 70 Min's",70,Unknown
+2025-05-11,13173,Kanchanjungha Express,"SABROOM (SBRM)
+								
+Avg. Delay: 22 Min's",22,Unknown
+2025-05-11,13174,Kanchanjungha Express,"SABROOM (SBRM)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,13174,Kanchanjungha Express,"UDAIPUR TRIPURA (UDPU)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,13174,Kanchanjungha Express,"AGARTALA (AGTL)
+								
+Avg. Delay: 32 Min's",32,Unknown
+2025-05-11,13174,Kanchanjungha Express,"AMBASA (ABSA)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,13174,Kanchanjungha Express,"KUMARGHAT (KUGT)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,13174,Kanchanjungha Express,"DHARMANAGAR (DMR)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,13174,Kanchanjungha Express,"NEW KARIMGANJ (NKMG)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,13174,Kanchanjungha Express,"BADARPUR JN (BPB)
+								
+Avg. Delay: 52 Min's",52,Unknown
+2025-05-11,13174,Kanchanjungha Express,"BIHARA (BHZ)
+								
+Avg. Delay: 53 Min's",53,Unknown
+2025-05-11,13174,Kanchanjungha Express,"NEW HAFLONG (NHLG)
+								
+Avg. Delay: 51 Min's",51,Unknown
+2025-05-11,13174,Kanchanjungha Express,"LUMDING JN (LMG)
+								
+Avg. Delay: 43 Min's",43,Unknown
+2025-05-11,13174,Kanchanjungha Express,"LANKA (LKA)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,13174,Kanchanjungha Express,"HOJAI (HJI)
+								
+Avg. Delay: 42 Min's",42,Unknown
+2025-05-11,13174,Kanchanjungha Express,"GUWAHATI (GHY)
+								
+Avg. Delay: 48 Min's",48,Unknown
+2025-05-11,13174,Kanchanjungha Express,"KAMAKHYA (KYQ)
+								
+Avg. Delay: 52 Min's",52,Unknown
+2025-05-11,13174,Kanchanjungha Express,"RANGIYA JN (RNY)
+								
+Avg. Delay: 55 Min's",55,Unknown
+2025-05-11,13174,Kanchanjungha Express,"BARPETA ROAD (BPRD)
+								
+Avg. Delay: 56 Min's",56,Unknown
+2025-05-11,13174,Kanchanjungha Express,"NEW BONGAIGAON (NBQ)
+								
+Avg. Delay: 48 Min's",48,Unknown
+2025-05-11,13174,Kanchanjungha Express,"KOKRAJHAR (KOJ)
+								
+Avg. Delay: 52 Min's",52,Unknown
+2025-05-11,13174,Kanchanjungha Express,"FAKIRAGRAM JN (FKM)
+								
+Avg. Delay: 57 Min's",57,Unknown
+2025-05-11,13174,Kanchanjungha Express,"GOSSAIGAON HAT (GOGH)
+								
+Avg. Delay: 56 Min's",56,Unknown
+2025-05-11,13174,Kanchanjungha Express,"KAMAKHYAGURI (KAMG)
+								
+Avg. Delay: 62 Min's",62,Unknown
+2025-05-11,13174,Kanchanjungha Express,"NEW ALIPURDAUR (NOQ)
+								
+Avg. Delay: 64 Min's",64,Unknown
+2025-05-11,13174,Kanchanjungha Express,"NEW COOCH BEHAR (NCB)
+								
+Avg. Delay: 63 Min's",63,Unknown
+2025-05-11,13174,Kanchanjungha Express,"FALAKATA (FLK)
+								
+Avg. Delay: 77 Min's",77,Unknown
+2025-05-11,13174,Kanchanjungha Express,"DHUPGURI (DQG)
+								
+Avg. Delay: 75 Min's",75,Unknown
+2025-05-11,13174,Kanchanjungha Express,"NEW MAYNAGURI (NMX)
+								
+Avg. Delay: 76 Min's",76,Unknown
+2025-05-11,13174,Kanchanjungha Express,"JALPAIGURI ROAD (JPE)
+								
+Avg. Delay: 73 Min's",73,Unknown
+2025-05-11,13174,Kanchanjungha Express,"NEW JALPAIGURI (NJP)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,13174,Kanchanjungha Express,"ALUABARI ROAD (AUB)
+								
+Avg. Delay: 49 Min's",49,Unknown
+2025-05-11,13174,Kanchanjungha Express,"KISHANGANJ (KNE)
+								
+Avg. Delay: 50 Min's",50,Unknown
+2025-05-11,13174,Kanchanjungha Express,"DALKOLHA (DLK)
+								
+Avg. Delay: 56 Min's",56,Unknown
+2025-05-11,13174,Kanchanjungha Express,"BARSOI JN (BOE)
+								
+Avg. Delay: 50 Min's",50,Unknown
+2025-05-11,13174,Kanchanjungha Express,"SAMSI (SM)
+								
+Avg. Delay: 45 Min's",45,Unknown
+2025-05-11,13174,Kanchanjungha Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 36 Min's",36,Unknown
+2025-05-11,13174,Kanchanjungha Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 45 Min's",45,Unknown
+2025-05-11,13174,Kanchanjungha Express,"PAKUR (PKR)
+								
+Avg. Delay: 43 Min's",43,Unknown
+2025-05-11,13174,Kanchanjungha Express,"MURARAI (MRR)
+								
+Avg. Delay: 46 Min's",46,Unknown
+2025-05-11,13174,Kanchanjungha Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 62 Min's",62,Unknown
+2025-05-11,13174,Kanchanjungha Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 69 Min's",69,Unknown
+2025-05-11,13174,Kanchanjungha Express,"AHMADPUR JN (AMP)
+								
+Avg. Delay: 69 Min's",69,Unknown
+2025-05-11,13174,Kanchanjungha Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 70 Min's",70,Unknown
+2025-05-11,13174,Kanchanjungha Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 76 Min's",76,Unknown
+2025-05-11,13174,Kanchanjungha Express,"DAKHINESWAR (DAKE)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,13174,Kanchanjungha Express,"SEALDAH (SDAH)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,13181,Kaziranga Express,"KOLKATA (KOAA)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13181,Kaziranga Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,13181,Kaziranga Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,13181,Kaziranga Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 45 Min's",45,Unknown
+2025-05-11,13181,Kaziranga Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,13181,Kaziranga Express,"NEW JALPAIGURI (NJP)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,13181,Kaziranga Express,"NEW COOCH BEHAR (NCB)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,13181,Kaziranga Express,"NEW ALIPURDAUR (NOQ)
+								
+Avg. Delay: 32 Min's",32,Unknown
+2025-05-11,13181,Kaziranga Express,"FAKIRAGRAM JN (FKM)
+								
+Avg. Delay: 32 Min's",32,Unknown
+2025-05-11,13181,Kaziranga Express,"NEW BONGAIGAON (NBQ)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,13181,Kaziranga Express,"KAMAKHYA (KYQ)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,13181,Kaziranga Express,"GUWAHATI (GHY)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,13181,Kaziranga Express,"JAGI ROAD (JID)
+								
+Avg. Delay: 33 Min's",33,Unknown
+2025-05-11,13181,Kaziranga Express,"CHAPARMUKH JN (CPK)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,13181,Kaziranga Express,"NAGAON (NGAN)
+								
+Avg. Delay: 25 Min's",25,Unknown
+2025-05-11,13181,Kaziranga Express,"JAKHALABANDHA (JKB)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,13181,Kaziranga Express,"SILGHAT TOWN (SHTT)
+								
+Avg. Delay: -13 Min's",-13,Unknown
+2025-05-11,13182,Kaziranga Express,"SILGHAT TOWN (SHTT)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13182,Kaziranga Express,"JAKHALABANDHA (JKB)
+								
+Avg. Delay: 0 Min's",0,Unknown
+2025-05-11,13182,Kaziranga Express,"NAGAON (NGAN)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,13182,Kaziranga Express,"CHAPARMUKH JN (CPK)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,13182,Kaziranga Express,"JAGI ROAD (JID)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,13182,Kaziranga Express,"GUWAHATI (GHY)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,13182,Kaziranga Express,"KAMAKHYA (KYQ)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,13182,Kaziranga Express,"NEW BONGAIGAON (NBQ)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13182,Kaziranga Express,"FAKIRAGRAM JN (FKM)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,13182,Kaziranga Express,"NEW ALIPURDAUR (NOQ)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,13182,Kaziranga Express,"NEW COOCH BEHAR (NCB)
+								
+Avg. Delay: 38 Min's",38,Unknown
+2025-05-11,13182,Kaziranga Express,"NEW JALPAIGURI (NJP)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,13182,Kaziranga Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,13182,Kaziranga Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,13182,Kaziranga Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 55 Min's",55,Unknown
+2025-05-11,13182,Kaziranga Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 72 Min's",72,Unknown
+2025-05-11,13182,Kaziranga Express,"KOLKATA (KOAA)
+								
+Avg. Delay: 41 Min's",41,Unknown
+2025-05-11,13465,Intercity Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13465,Intercity Express,"BANDEL JN (BDC)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,13465,Intercity Express,"AMBIKA KALNA (ABKA)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,13465,Intercity Express,"NABADWIP DHAM (NDAE)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,13465,Intercity Express,"KATWA (KWAE)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,13465,Intercity Express,"SALAR (SALE)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,13465,Intercity Express,"BAZARSAU (BZLE)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,13465,Intercity Express,"KHAGRAGHAT ROAD (KGLE)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,13465,Intercity Express,"AZIMGANJ JN (AZ)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,13465,Intercity Express,"JANGIPUR ROAD (JRLE)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,13465,Intercity Express,"NIMTITA (NILE)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,13465,Intercity Express,"DHULIAN GANGA (DGLE)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,13465,Intercity Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 43 Min's",43,Unknown
+2025-05-11,13465,Intercity Express,"KHALTIPUR (KTJ)
+								
+Avg. Delay: 42 Min's",42,Unknown
+2025-05-11,13465,Intercity Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 25 Min's",25,Unknown
+2025-05-11,13466,Intercity Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13466,Intercity Express,"KHALTIPUR (KTJ)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,13466,Intercity Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 15 Min's",15,Unknown
+2025-05-11,13466,Intercity Express,"DHULIAN GANGA (DGLE)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,13466,Intercity Express,"NIMTITA (NILE)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,13466,Intercity Express,"JANGIPUR ROAD (JRLE)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,13466,Intercity Express,"AZIMGANJ JN (AZ)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,13466,Intercity Express,"KHAGRAGHAT ROAD (KGLE)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,13466,Intercity Express,"BAZARSAU (BZLE)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,13466,Intercity Express,"SALAR (SALE)
+								
+Avg. Delay: 15 Min's",15,Unknown
+2025-05-11,13466,Intercity Express,"KATWA (KWAE)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,13466,Intercity Express,"NABADWIP DHAM (NDAE)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,13466,Intercity Express,"AMBIKA KALNA (ABKA)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,13466,Intercity Express,"BANDEL JN (BDC)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,13466,Intercity Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: -11 Min's",-11,Unknown
+2025-05-11,22897,Kandari Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 124 Min's",124,Unknown
+2025-05-11,22897,Kandari Express,"SANTRAGACHI JN (SRC)
+								
+Avg. Delay: 137 Min's",137,Unknown
+2025-05-11,22897,Kandari Express,"ULUBARIA (ULB)
+								
+Avg. Delay: 144 Min's",144,Unknown
+2025-05-11,22897,Kandari Express,"MECHEDA (MCA)
+								
+Avg. Delay: 147 Min's",147,Unknown
+2025-05-11,22897,Kandari Express,"TAMLUK (TMZ)
+								
+Avg. Delay: 150 Min's",150,Unknown
+2025-05-11,22897,Kandari Express,"KANTHI P H (KATI)
+								
+Avg. Delay: 163 Min's",163,Unknown
+2025-05-11,22897,Kandari Express,"RAMNAGAR BENGAL (RMRB)
+								
+Avg. Delay: 156 Min's",156,Unknown
+2025-05-11,22897,Kandari Express,"DIGHA FLAG STN (DGHA)
+								
+Avg. Delay: 149 Min's",149,Unknown
+2025-05-11,22898,Kandari Express,"DIGHA FLAG STN (DGHA)
+								
+Avg. Delay: 122 Min's",122,Unknown
+2025-05-11,22898,Kandari Express,"RAMNAGAR BENGAL (RMRB)
+								
+Avg. Delay: 143 Min's",143,Unknown
+2025-05-11,22898,Kandari Express,"KANTHI P H (KATI)
+								
+Avg. Delay: 148 Min's",148,Unknown
+2025-05-11,22898,Kandari Express,"TAMLUK (TMZ)
+								
+Avg. Delay: 157 Min's",157,Unknown
+2025-05-11,22898,Kandari Express,"MECHEDA (MCA)
+								
+Avg. Delay: 175 Min's",175,Unknown
+2025-05-11,22898,Kandari Express,"ULUBARIA (ULB)
+								
+Avg. Delay: 183 Min's",183,Unknown
+2025-05-11,22898,Kandari Express,"SANTRAGACHI JN (SRC)
+								
+Avg. Delay: 197 Min's",197,Unknown
+2025-05-11,22898,Kandari Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 196 Min's",196,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"DHANBAD JN (DHN)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"PARASNATH (PNME)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"KODERMA (KQR)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"RAFIGANJ (RFJ)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"ANUGRAHA N ROAD (AUBR)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"DEHRI ON SONE (DOS)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"SASARAM (SSM)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"BHABUA ROAD (BBU)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"MIRZAPUR (MZP)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"PRAYAGRAJ JN (PRYJ)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"FATEHPUR (FTP)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"ETAWAH (ETW)
+								
+Avg. Delay: 43 Min's",43,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"TUNDLA JN (TDL)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"AGRA FORT (AF)
+								
+Avg. Delay: 32 Min's",32,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"ACHHNERA JN (AH)
+								
+Avg. Delay: 33 Min's",33,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"BHARATPUR JN (BTE)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"JAIPUR (JP)
+								
+Avg. Delay: 23 Min's",23,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"NAWA CITY (NAC)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"KUCHAMAN CITY (KMNC)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"MAKRANA JN (MKN)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"DEGANA JN (DNA)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"MERTA ROAD JN (MTD)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,12307,Howrah Jodhpur Express,"JODHPUR JN (JU)
+								
+Avg. Delay: -12 Min's",-12,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"JODHPUR JN (JU)
+								
+Avg. Delay: 6 Min's",6,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"MERTA ROAD JN (MTD)
+								
+Avg. Delay: 15 Min's",15,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"DEGANA JN (DNA)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"MAKRANA JN (MKN)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"KUCHAMAN CITY (KMNC)
+								
+Avg. Delay: 15 Min's",15,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"NAWA CITY (NAC)
+								
+Avg. Delay: 15 Min's",15,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"JAIPUR (JP)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"BHARATPUR JN (BTE)
+								
+Avg. Delay: 15 Min's",15,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"ACHHNERA JN (AH)
+								
+Avg. Delay: 27 Min's",27,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"AGRA FORT (AF)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"TUNDLA JN (TDL)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"ETAWAH (ETW)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"FATEHPUR (FTP)
+								
+Avg. Delay: 38 Min's",38,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"PRAYAGRAJ JN (PRYJ)
+								
+Avg. Delay: 67 Min's",67,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"MIRZAPUR (MZP)
+								
+Avg. Delay: 101 Min's",101,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 94 Min's",94,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"BHABUA ROAD (BBU)
+								
+Avg. Delay: 96 Min's",96,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"SASARAM (SSM)
+								
+Avg. Delay: 101 Min's",101,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"DEHRI ON SONE (DOS)
+								
+Avg. Delay: 100 Min's",100,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"ANUGRAHA N ROAD (AUBR)
+								
+Avg. Delay: 99 Min's",99,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"RAFIGANJ (RFJ)
+								
+Avg. Delay: 110 Min's",110,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 104 Min's",104,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"KODERMA (KQR)
+								
+Avg. Delay: 103 Min's",103,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"PARASNATH (PNME)
+								
+Avg. Delay: 120 Min's",120,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"DHANBAD JN (DHN)
+								
+Avg. Delay: 100 Min's",100,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"ASANSOL JN (ASN)
+								
+Avg. Delay: 99 Min's",99,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 95 Min's",95,Unknown
+2025-05-11,12308,Jodhpur Howrah Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 63 Min's",63,Unknown
+2025-05-11,12857,Tamralipta Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 79 Min's",79,Unknown
+2025-05-11,12857,Tamralipta Express,"SANTRAGACHI JN (SRC)
+								
+Avg. Delay: 88 Min's",88,Unknown
+2025-05-11,12857,Tamralipta Express,"ULUBARIA (ULB)
+								
+Avg. Delay: 94 Min's",94,Unknown
+2025-05-11,12857,Tamralipta Express,"MECHEDA (MCA)
+								
+Avg. Delay: 98 Min's",98,Unknown
+2025-05-11,12857,Tamralipta Express,"TAMLUK (TMZ)
+								
+Avg. Delay: 99 Min's",99,Unknown
+2025-05-11,12857,Tamralipta Express,"KANTHI P H (KATI)
+								
+Avg. Delay: 109 Min's",109,Unknown
+2025-05-11,12857,Tamralipta Express,"RAMNAGAR BENGAL (RMRB)
+								
+Avg. Delay: 109 Min's",109,Unknown
+2025-05-11,12857,Tamralipta Express,"DIGHA FLAG STN (DGHA)
+								
+Avg. Delay: 97 Min's",97,Unknown
+2025-05-11,12858,Tamralipta Express,"DIGHA FLAG STN (DGHA)
+								
+Avg. Delay: 97 Min's",97,Unknown
+2025-05-11,12858,Tamralipta Express,"RAMNAGAR BENGAL (RMRB)
+								
+Avg. Delay: 99 Min's",99,Unknown
+2025-05-11,12858,Tamralipta Express,"KANTHI P H (KATI)
+								
+Avg. Delay: 100 Min's",100,Unknown
+2025-05-11,12858,Tamralipta Express,"TAMLUK (TMZ)
+								
+Avg. Delay: 102 Min's",102,Unknown
+2025-05-11,12858,Tamralipta Express,"MECHEDA (MCA)
+								
+Avg. Delay: 111 Min's",111,Unknown
+2025-05-11,12858,Tamralipta Express,"ULUBARIA (ULB)
+								
+Avg. Delay: 115 Min's",115,Unknown
+2025-05-11,12858,Tamralipta Express,"SANTRAGACHI JN (SRC)
+								
+Avg. Delay: 125 Min's",125,Unknown
+2025-05-11,12858,Tamralipta Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 126 Min's",126,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"BANDEL JN (BDC)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"GUSKARA (GKH)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"BHEDIA (BDH)
+								
+Avg. Delay: 32 Min's",32,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"PRANTIK (PNE)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"AHMADPUR JN (AMP)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"MALLARPUR (MLV)
+								
+Avg. Delay: 38 Min's",38,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"NALHATI JN (NHT)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"MURARAI (MRR)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"RAJGRAM (RJG)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"PAKUR (PKR)
+								
+Avg. Delay: 36 Min's",36,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"TILDANGA (TDLE)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,13011,Malda Town Intercity Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: -2 Min's",-2,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"TILDANGA (TDLE)
+								
+Avg. Delay: 15 Min's",15,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"PAKUR (PKR)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"RAJGRAM (RJG)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"MURARAI (MRR)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"NALHATI JN (NHT)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"MALLARPUR (MLV)
+								
+Avg. Delay: 22 Min's",22,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 23 Min's",23,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"AHMADPUR JN (AMP)
+								
+Avg. Delay: 23 Min's",23,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"PRANTIK (PNE)
+								
+Avg. Delay: 22 Min's",22,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 23 Min's",23,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"BHEDIA (BDH)
+								
+Avg. Delay: 25 Min's",25,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"GUSKARA (GKH)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"BANDEL JN (BDC)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,13012,Malda Town Intercity Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,13027,Kaviguru Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13027,Kaviguru Express,"BANDEL JN (BDC)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,13027,Kaviguru Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,13027,Kaviguru Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,13027,Kaviguru Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 44 Min's",44,Unknown
+2025-05-11,13027,Kaviguru Express,"NALHATI JN (NHT)
+								
+Avg. Delay: 53 Min's",53,Unknown
+2025-05-11,13027,Kaviguru Express,"MORGRAM (MGAE)
+								
+Avg. Delay: 59 Min's",59,Unknown
+2025-05-11,13027,Kaviguru Express,"SAGARDIGHI (SDI)
+								
+Avg. Delay: 61 Min's",61,Unknown
+2025-05-11,13027,Kaviguru Express,"AZIMGANJ JN (AZ)
+								
+Avg. Delay: -1 Min's",-1,Unknown
+2025-05-11,13028,Kaviguru Express,"AZIMGANJ JN (AZ)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13028,Kaviguru Express,"SAGARDIGHI (SDI)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,13028,Kaviguru Express,"MORGRAM (MGAE)
+								
+Avg. Delay: 22 Min's",22,Unknown
+2025-05-11,13028,Kaviguru Express,"NALHATI JN (NHT)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,13028,Kaviguru Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,13028,Kaviguru Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 44 Min's",44,Unknown
+2025-05-11,13028,Kaviguru Express,"AHMADPUR JN (AMP)
+								
+Avg. Delay: 45 Min's",45,Unknown
+2025-05-11,13028,Kaviguru Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 46 Min's",46,Unknown
+2025-05-11,13028,Kaviguru Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,13028,Kaviguru Express,"BANDEL JN (BDC)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,13028,Kaviguru Express,"HOWRAH JN (HWH)
+								
+Avg. Delay: -6 Min's",-6,Unknown
+2025-05-11,13147,Uttar Banga Express,"SEALDAH (SDAH)
+								
+Avg. Delay: 2 Min's",2,Unknown
+2025-05-11,13147,Uttar Banga Express,"BIDHAN NAGAR (BNXR)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13147,Uttar Banga Express,"DAKHINESWAR (DAKE)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,13147,Uttar Banga Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,13147,Uttar Banga Express,"GUSKARA (GKH)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,13147,Uttar Banga Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 22 Min's",22,Unknown
+2025-05-11,13147,Uttar Banga Express,"AHMADPUR JN (AMP)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,13147,Uttar Banga Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,13147,Uttar Banga Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 20 Min's",20,Unknown
+2025-05-11,13147,Uttar Banga Express,"NALHATI JN (NHT)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,13147,Uttar Banga Express,"PAKUR (PKR)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,13147,Uttar Banga Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,13147,Uttar Banga Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,13147,Uttar Banga Express,"SAMSI (SM)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,13147,Uttar Banga Express,"KUMEDPUR (KDPR)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,13147,Uttar Banga Express,"AZAMNAGAR ROAD (AZR)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,13147,Uttar Banga Express,"DALKOLHA (DLK)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,13147,Uttar Banga Express,"KISHANGANJ (KNE)
+								
+Avg. Delay: 25 Min's",25,Unknown
+2025-05-11,13147,Uttar Banga Express,"ALUABARI ROAD (AUB)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,13147,Uttar Banga Express,"NEW JALPAIGURI (NJP)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,13147,Uttar Banga Express,"JALPAIGURI ROAD (JPE)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,13147,Uttar Banga Express,"NEW MAYNAGURI (NMX)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,13147,Uttar Banga Express,"DHUPGURI (DQG)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,13147,Uttar Banga Express,"FALAKATA (FLK)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,13147,Uttar Banga Express,"NEW COOCH BEHAR (NCB)
+								
+Avg. Delay: 17 Min's",17,Unknown
+2025-05-11,13147,Uttar Banga Express,"DINHATA (DHH)
+								
+Avg. Delay: 10 Min's",10,Unknown
+2025-05-11,13147,Uttar Banga Express,"BAMANHAT (BXT)
+								
+Avg. Delay: -36 Min's",-36,Unknown
+2025-05-11,13148,Uttar Banga Express,"BAMANHAT (BXT)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,13148,Uttar Banga Express,"DINHATA (DHH)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,13148,Uttar Banga Express,"NEW COOCH BEHAR (NCB)
+								
+Avg. Delay: 23 Min's",23,Unknown
+2025-05-11,13148,Uttar Banga Express,"FALAKATA (FLK)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,13148,Uttar Banga Express,"DHUPGURI (DQG)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,13148,Uttar Banga Express,"NEW MAYNAGURI (NMX)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,13148,Uttar Banga Express,"JALPAIGURI ROAD (JPE)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,13148,Uttar Banga Express,"NEW JALPAIGURI (NJP)
+								
+Avg. Delay: 2 Min's",2,Unknown
+2025-05-11,13148,Uttar Banga Express,"ALUABARI ROAD (AUB)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,13148,Uttar Banga Express,"KISHANGANJ (KNE)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,13148,Uttar Banga Express,"DALKOLHA (DLK)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,13148,Uttar Banga Express,"AZAMNAGAR ROAD (AZR)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,13148,Uttar Banga Express,"KUMEDPUR (KDPR)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,13148,Uttar Banga Express,"SAMSI (SM)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,13148,Uttar Banga Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,13148,Uttar Banga Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,13148,Uttar Banga Express,"PAKUR (PKR)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,13148,Uttar Banga Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 25 Min's",25,Unknown
+2025-05-11,13148,Uttar Banga Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,13148,Uttar Banga Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,13148,Uttar Banga Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,13148,Uttar Banga Express,"DAKHINESWAR (DAKE)
+								
+Avg. Delay: 6 Min's",6,Unknown
+2025-05-11,13148,Uttar Banga Express,"BIDHAN NAGAR (BNXR)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,13148,Uttar Banga Express,"SEALDAH (SDAH)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"SEALDAH (SDAH)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"BIDHAN NAGAR (BNXR)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"DAKHINESWAR (DAKE)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"KAMARKUNDU (KQU)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 32 Min's",32,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"AHMADPUR JN (AMP)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 36 Min's",36,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"PAKUR (PKR)
+								
+Avg. Delay: 33 Min's",33,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 18 Min's",18,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"BHALUKA ROAD F (BKRD)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"HARISCHANDRPUR (HCR)
+								
+Avg. Delay: 14 Min's",14,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"BARSOI JN (BOE)
+								
+Avg. Delay: 25 Min's",25,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"DALKOLHA (DLK)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"KISHANGANJ (KNE)
+								
+Avg. Delay: 33 Min's",33,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"ALUABARI ROAD (AUB)
+								
+Avg. Delay: 38 Min's",38,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"THAKURGANJ (TKG)
+								
+Avg. Delay: 40 Min's",40,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"NAKSALBARI (NAK)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"BAGHDOGRA (BORA)
+								
+Avg. Delay: 33 Min's",33,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"SILIGURI JN (SGUJ)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"NEW MAL JN (NMZ)
+								
+Avg. Delay: 23 Min's",23,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"BANARHAT (BNQ)
+								
+Avg. Delay: 32 Min's",32,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"DALGAON (DLO)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"MADARIHAT (MDT)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"HASIMARA (HSA)
+								
+Avg. Delay: 32 Min's",32,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"HAMILTONGANJ (HOJ)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,13149,Kanchan Kanya Express,"ALIPUR DUAR JN (APDJ)
+								
+Avg. Delay: -2 Min's",-2,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"ALIPUR DUAR JN (APDJ)
+								
+Avg. Delay: 2 Min's",2,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"HAMILTONGANJ (HOJ)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"HASIMARA (HSA)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"MADARIHAT (MDT)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"DALGAON (DLO)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"BANARHAT (BNQ)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"NEW MAL JN (NMZ)
+								
+Avg. Delay: 46 Min's",46,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"SILIGURI JN (SGUJ)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"BAGHDOGRA (BORA)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"NAKSALBARI (NAK)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"THAKURGANJ (TKG)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"ALUABARI ROAD (AUB)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"KISHANGANJ (KNE)
+								
+Avg. Delay: 40 Min's",40,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"DALKOLHA (DLK)
+								
+Avg. Delay: 44 Min's",44,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"BARSOI JN (BOE)
+								
+Avg. Delay: 46 Min's",46,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"HARISCHANDRPUR (HCR)
+								
+Avg. Delay: 47 Min's",47,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"BHALUKA ROAD F (BKRD)
+								
+Avg. Delay: 55 Min's",55,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"MALDA TOWN (MLDT)
+								
+Avg. Delay: 12 Min's",12,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"NEW FARAKKA JN (NFK)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"PAKUR (PKR)
+								
+Avg. Delay: 13 Min's",13,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"RAMPUR HAT (RPH)
+								
+Avg. Delay: 26 Min's",26,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"SAINTHIA (SNT)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"AHMADPUR JN (AMP)
+								
+Avg. Delay: 27 Min's",27,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"BOLPUR S NIKTN (BHP)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"BARDDHAMAN JN (BWN)
+								
+Avg. Delay: 29 Min's",29,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"KAMARKUNDU (KQU)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"DAKHINESWAR (DAKE)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"BIDHAN NAGAR (BNXR)
+								
+Avg. Delay: 9 Min's",9,Unknown
+2025-05-11,13150,Kanchan Kanya Express,"SEALDAH (SDAH)
+								
+Avg. Delay: 6 Min's",6,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"PURI (PURI)
+								
+Avg. Delay: 11 Min's",11,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"SAKHI GOPAL (SIL)
+								
+Avg. Delay: 16 Min's",16,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"KHURDA ROAD JN (KUR)
+								
+Avg. Delay: 23 Min's",23,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"BHUBANESWAR (BBS)
+								
+Avg. Delay: 23 Min's",23,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"CUTTACK (CTC)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"JAJPUR K ROAD (JJKR)
+								
+Avg. Delay: 41 Min's",41,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"BHADRAKH (BHC)
+								
+Avg. Delay: 27 Min's",27,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"SORO (SORO)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"BALASORE (BLS)
+								
+Avg. Delay: 41 Min's",41,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"JALESWAR (JER)
+								
+Avg. Delay: 43 Min's",43,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"HIJILLI (HIJ)
+								
+Avg. Delay: 42 Min's",42,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"JHARGRAM (JGM)
+								
+Avg. Delay: 46 Min's",46,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"GHATSILA (GTS)
+								
+Avg. Delay: 52 Min's",52,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"TATANAGAR JN (TATA)
+								
+Avg. Delay: 47 Min's",47,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"MURI (MURI)
+								
+Avg. Delay: 56 Min's",56,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"BOKARO STL CITY (BKSC)
+								
+Avg. Delay: 42 Min's",42,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"CHANDRAPURA (CRP)
+								
+Avg. Delay: 32 Min's",32,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"NSC BOSE J GOMO (GMO)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"PARASNATH (PNME)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"KODERMA (KQR)
+								
+Avg. Delay: 46 Min's",46,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"RAFIGANJ (RFJ)
+								
+Avg. Delay: 35 Min's",35,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"ANUGRAHA N ROAD (AUBR)
+								
+Avg. Delay: 38 Min's",38,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"DEHRI ON SONE (DOS)
+								
+Avg. Delay: 36 Min's",36,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"SASARAM (SSM)
+								
+Avg. Delay: 36 Min's",36,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"BHABUA ROAD (BBU)
+								
+Avg. Delay: 38 Min's",38,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"KASHI (KEI)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"VARANASI JN (BSB)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"BHADOHI (BOY)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"MA BELHADEVI PRATAPGARH JN (MBDP)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"AMETHI (AME)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"GAURIGANJ (GNG)
+								
+Avg. Delay: 5 Min's",5,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"RAE BARELI JN (RBL)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"LUCKNOW NR (LKO)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"UNNAO JN (ON)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 24 Min's",24,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"ETAWAH (ETW)
+								
+Avg. Delay: 41 Min's",41,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"FIROZABAD (FZD)
+								
+Avg. Delay: 47 Min's",47,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"TUNDLA JN (TDL)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"HATHRAS JN (HRS)
+								
+Avg. Delay: 38 Min's",38,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"ALIGARH JN (ALJN)
+								
+Avg. Delay: 37 Min's",37,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"GHAZIABAD (GZB)
+								
+Avg. Delay: 30 Min's",30,Unknown
+2025-05-11,12875,Howrah Bhubaneswar Superfast Express,"ANAND VIHAR TRM (ANVT)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"ANAND VIHAR TRM (ANVT)
+								
+Avg. Delay: 2 Min's",2,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"ALIGARH JN (ALJN)
+								
+Avg. Delay: 7 Min's",7,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"HATHRAS JN (HRS)
+								
+Avg. Delay: 8 Min's",8,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"TUNDLA JN (TDL)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"FIROZABAD (FZD)
+								
+Avg. Delay: 1 Min's",1,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"ETAWAH (ETW)
+								
+Avg. Delay: 3 Min's",3,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"KANPUR CENTRAL (CNB)
+								
+Avg. Delay: 4 Min's",4,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"UNNAO JN (ON)
+								
+Avg. Delay: 19 Min's",19,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"LUCKNOW NR (LKO)
+								
+Avg. Delay: 45 Min's",45,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"RAE BARELI JN (RBL)
+								
+Avg. Delay: 43 Min's",43,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"GAURIGANJ (GNG)
+								
+Avg. Delay: 45 Min's",45,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"AMETHI (AME)
+								
+Avg. Delay: 47 Min's",47,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"MA BELHADEVI PRATAPGARH JN (MBDP)
+								
+Avg. Delay: 47 Min's",47,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"BHADOHI (BOY)
+								
+Avg. Delay: 31 Min's",31,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"VARANASI JN (BSB)
+								
+Avg. Delay: 21 Min's",21,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"KASHI (KEI)
+								
+Avg. Delay: 33 Min's",33,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"PT DEEN DAYAL UPADHYAY JN (DDU)
+								
+Avg. Delay: 34 Min's",34,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"BHABUA ROAD (BBU)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"SASARAM (SSM)
+								
+Avg. Delay: 43 Min's",43,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"DEHRI ON SONE (DOS)
+								
+Avg. Delay: 47 Min's",47,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"ANUGRAHA N ROAD (AUBR)
+								
+Avg. Delay: 52 Min's",52,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"RAFIGANJ (RFJ)
+								
+Avg. Delay: 64 Min's",64,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"GAYA JN (GAYA)
+								
+Avg. Delay: 40 Min's",40,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"KODERMA (KQR)
+								
+Avg. Delay: 38 Min's",38,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"PARASNATH (PNME)
+								
+Avg. Delay: 49 Min's",49,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"NSC BOSE J GOMO (GMO)
+								
+Avg. Delay: 48 Min's",48,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"CHANDRAPURA (CRP)
+								
+Avg. Delay: 43 Min's",43,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"BOKARO STL CITY (BKSC)
+								
+Avg. Delay: 28 Min's",28,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"MURI (MURI)
+								
+Avg. Delay: 39 Min's",39,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"TATANAGAR JN (TATA)
+								
+Avg. Delay: 84 Min's",84,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"GHATSILA (GTS)
+								
+Avg. Delay: 99 Min's",99,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"JHARGRAM (JGM)
+								
+Avg. Delay: 108 Min's",108,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"HIJILLI (HIJ)
+								
+Avg. Delay: 104 Min's",104,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"JALESWAR (JER)
+								
+Avg. Delay: 108 Min's",108,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"BALASORE (BLS)
+								
+Avg. Delay: 114 Min's",114,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"SORO (SORO)
+								
+Avg. Delay: 124 Min's",124,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"BHADRAKH (BHC)
+								
+Avg. Delay: 109 Min's",109,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"JAJPUR K ROAD (JJKR)
+								
+Avg. Delay: 124 Min's",124,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"CUTTACK (CTC)
+								
+Avg. Delay: 144 Min's",144,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"BHUBANESWAR (BBS)
+								
+Avg. Delay: 154 Min's",154,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"KHURDA ROAD JN (KUR)
+								
+Avg. Delay: 153 Min's",153,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"SAKHI GOPAL (SIL)
+								
+Avg. Delay: 165 Min's",165,Unknown
+2025-05-11,12876,Bhubaneswar Howrah Superfast Express,"PURI (PURI)
+								
+Avg. Delay: 159 Min's",159,Unknown
